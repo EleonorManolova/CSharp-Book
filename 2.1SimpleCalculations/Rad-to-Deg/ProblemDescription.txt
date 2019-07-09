@@ -1,0 +1,12 @@
+10. Radians to Degrees 
+
+Write a program, that reads an angle in radians (rad) and converts it to degrees (deg). 
+Look for a proper formula on the Internet. 
+The number π in C# programs is available through Math.PI. 
+Round the result to the nearest integer using the Math.Round(…) method.
+
+Input	  Output
+3.1416	180
+6.2832	360
+0.7854	45
+0.5236	30
