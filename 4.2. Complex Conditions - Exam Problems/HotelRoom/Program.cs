@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HotelRoom
+﻿namespace HotelRoom
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             string month = Console.ReadLine().ToLower();
             int days = int.Parse(Console.ReadLine());
+            var studioRent = 0.00m;
+            var apartmentRent = 0.00m;
 
-            decimal studioPrice = 50.00m;
-            decimal apartmenPrice = 65.00m;
-            decimal studioRent = 0.00m;
-            decimal apartmentRent = 0.00m;
+            decimal apartmenPrice;
 
+            decimal studioPrice;
             switch (month)
             {
                 case "may":
@@ -31,7 +27,7 @@ namespace HotelRoom
                         studioRent *= 0.7M;
                         apartmentRent *= 0.9M;
                     }
-                    else if (days>7)
+                    else if (days > 7)
                     {
                         studioRent *= 0.95m;
                     }

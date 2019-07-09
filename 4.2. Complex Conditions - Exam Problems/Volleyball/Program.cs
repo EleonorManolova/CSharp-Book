@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Volleyball
+﻿namespace Volleyball
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var year = Console.ReadLine().ToLower();
             var holiday = int.Parse(Console.ReadLine());
@@ -27,6 +23,5 @@ namespace Volleyball
                     break;
             }
         }
-         
     }
 }

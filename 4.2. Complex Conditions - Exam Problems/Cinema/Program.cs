@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Cinema
+﻿namespace Cinema
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var type = Console.ReadLine().ToLower();
             var row = double.Parse(Console.ReadLine());
@@ -27,6 +23,7 @@ namespace Cinema
                     price = row * column * 5.0;
                     break;
             }
+
             Console.WriteLine("{0:0.00} leva", price);
         }
     }

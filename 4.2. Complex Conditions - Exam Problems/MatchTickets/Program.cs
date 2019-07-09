@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MatchTickets
+﻿namespace MatchTickets
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             decimal budget = decimal.Parse(Console.ReadLine());
             string category = Console.ReadLine();
@@ -28,6 +24,7 @@ namespace MatchTickets
                 transport = 0.40M * budget;
             else if (people >= 50)
                 transport = 0.25M * budget;
+
             switch (category)
             {
                 case "Normal":
@@ -40,6 +37,7 @@ namespace MatchTickets
                     moneyForTickets = people * 249.99M;
                     break;
             }
+
             moneyDifference = budget - transport - moneyForTickets;
 
             string result = string.Format("Yes! You have {0:F2} leva left.", decimal.Round(moneyDifference, 2));
@@ -48,6 +46,7 @@ namespace MatchTickets
             {
                 result = string.Format("Not enough money! You need {0:F2} leva.", Math.Abs(decimal.Round(moneyDifference, 2)));
             }
+
             Console.WriteLine(result);
         }
     }

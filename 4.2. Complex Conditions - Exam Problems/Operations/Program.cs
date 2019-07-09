@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Operations
+﻿namespace Operations
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var n1 = int.Parse(Console.ReadLine());
             var n2 = double.Parse(Console.ReadLine());
@@ -24,9 +20,14 @@ namespace Operations
                     result = n1 + n2;
                 }
                 else if (symbol == "-")
+                {
                     result = n1 - n2;
+                }
                 else if (symbol == "*")
+                {
                     result = n1 * n2;
+                }
+
                 Console.WriteLine("{0} {1} {2} = {3} - {4}", n1, symbol, n2, result, result % 2 == 0 ? "even" : "odd");
             }
             else if (symbol == "/" || symbol == "%")
@@ -44,7 +45,7 @@ namespace Operations
                     {
                         result = n1 % n2;
                         Console.WriteLine("{0} {1} {2} = {3}", n1, symbol, n2, result);
-                    } 
+                    }
                 }
             }
         }

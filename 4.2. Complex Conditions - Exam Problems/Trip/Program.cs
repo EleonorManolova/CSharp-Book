@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Trip
+﻿namespace Trip
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var budget = double.Parse(Console.ReadLine());
             var season = Console.ReadLine().ToLower();
@@ -34,10 +30,14 @@ namespace Trip
             {
                 destination = "Europe";
                 result = 0.9 * budget;
-            }   
+            }
+
             string location = "Camp";
+
             if (season == "winter" || destination == "Europe")
+            {
                 location = "Hotel";
+            }
 
             Console.WriteLine("Somewhere in {0}", destination);
             Console.WriteLine("{0} - {1}", location, string.Format("{0:0.00}", result));
