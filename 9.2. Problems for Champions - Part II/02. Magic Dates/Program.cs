@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Magic_Dates
+﻿namespace _02.Magic_Dates
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var startYear = int.Parse(Console.ReadLine());
             var endYear = int.Parse(Console.ReadLine());
@@ -43,7 +39,7 @@ namespace _02.Magic_Dates
 
                 currentDate = currentDate.AddDays(1);
             }
-            
+
             if (!found)
             {
                 Console.WriteLine("No");
