@@ -1,0 +1,7 @@
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\bin\Debug\TextNumbers.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\bin\Debug\TextNumbers.exe
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\bin\Debug\TextNumbers.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\obj\Debug\TextNumbers.csprojAssemblyReference.cache
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\obj\Debug\TextNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\obj\Debug\TextNumbers.exe
+C:\Users\eleon\Desktop\SimpleCalculations\TextNumbers\obj\Debug\TextNumbers.pdb

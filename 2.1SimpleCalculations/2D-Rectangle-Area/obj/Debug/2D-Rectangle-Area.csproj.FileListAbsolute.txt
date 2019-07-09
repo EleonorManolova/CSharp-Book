@@ -1,0 +1,7 @@
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.exe
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.csprojAssemblyReference.cache
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.exe
+C:\Users\eleon\Desktop\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.pdb

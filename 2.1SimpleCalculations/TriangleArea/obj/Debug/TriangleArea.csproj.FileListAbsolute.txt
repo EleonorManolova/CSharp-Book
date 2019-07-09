@@ -1,0 +1,6 @@
+C:\Users\eleon\Desktop\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\eleon\Desktop\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\eleon\Desktop\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.pdb

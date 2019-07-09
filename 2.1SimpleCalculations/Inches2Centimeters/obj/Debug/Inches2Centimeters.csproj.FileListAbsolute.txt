@@ -1,0 +1,6 @@
+C:\Users\eleon\Desktop\SimpleCalculations\Inches2Centimeters\bin\Debug\Inches2Centimeters.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\Inches2Centimeters\bin\Debug\Inches2Centimeters.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Inches2Centimeters\bin\Debug\Inches2Centimeters.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\Inches2Centimeters\obj\Debug\Inches2Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Inches2Centimeters\obj\Debug\Inches2Centimeters.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Inches2Centimeters\obj\Debug\Inches2Centimeters.pdb

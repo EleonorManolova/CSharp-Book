@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\obj\Debug\1000-Days-After-Birth.csprojAssemblyReference.cache
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\obj\Debug\1000-Days-After-Birth.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\bin\Debug\1000-Days-After-Birth.exe.config
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\bin\Debug\1000-Days-After-Birth.exe
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\bin\Debug\1000-Days-After-Birth.pdb
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\obj\Debug\1000-Days-After-Birth.exe
+C:\Elie\SoftUni\SimpleCalculations\1000-Days-After-Birth\obj\Debug\1000-Days-After-Birth.pdb

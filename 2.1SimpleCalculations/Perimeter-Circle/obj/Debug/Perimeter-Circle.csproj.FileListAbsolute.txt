@@ -1,0 +1,6 @@
+C:\Users\eleon\Desktop\SimpleCalculations\Perimeter-Circle\bin\Debug\Perimeter-Circle.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\Perimeter-Circle\bin\Debug\Perimeter-Circle.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Perimeter-Circle\bin\Debug\Perimeter-Circle.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\Perimeter-Circle\obj\Debug\Perimeter-Circle.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Perimeter-Circle\obj\Debug\Perimeter-Circle.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Perimeter-Circle\obj\Debug\Perimeter-Circle.pdb

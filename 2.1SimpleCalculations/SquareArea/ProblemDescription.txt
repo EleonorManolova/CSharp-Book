@@ -1,0 +1,3 @@
+01. Square Area 
+
+Reads an integer from the console, multiplies it by itself (squares it) and prints the result from the multiplication.

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\obj\Debug\Currency Converter.csprojAssemblyReference.cache
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Elie\SoftUni\SimpleCalculations\Currency Converter\obj\Debug\Currency Converter.pdb

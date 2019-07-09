@@ -1,0 +1,7 @@
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csprojAssemblyReference.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

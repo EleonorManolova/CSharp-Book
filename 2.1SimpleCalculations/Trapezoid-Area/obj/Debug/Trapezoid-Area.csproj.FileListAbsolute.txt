@@ -1,0 +1,7 @@
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojAssemblyReference.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

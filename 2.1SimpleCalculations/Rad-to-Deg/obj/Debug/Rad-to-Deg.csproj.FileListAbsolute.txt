@@ -1,0 +1,7 @@
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\bin\Debug\Rad-to-Deg.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\bin\Debug\Rad-to-Deg.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\bin\Debug\Rad-to-Deg.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\obj\Debug\Rad-to-Deg.csprojAssemblyReference.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\obj\Debug\Rad-to-Deg.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\obj\Debug\Rad-to-Deg.exe
+C:\Users\eleon\Desktop\SimpleCalculations\Rad-to-Deg\obj\Debug\Rad-to-Deg.pdb

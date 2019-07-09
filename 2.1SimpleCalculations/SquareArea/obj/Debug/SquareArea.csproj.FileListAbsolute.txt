@@ -1,0 +1,7 @@
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\obj\Debug\SquareArea.csprojAssemblyReference.cache
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\bin\Debug\SquareArea.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\eleon\Desktop\SimpleCalculations\SquareArea\obj\Debug\SquareArea.pdb

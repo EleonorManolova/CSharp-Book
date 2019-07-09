@@ -1,0 +1,6 @@
+C:\Users\eleon\Desktop\SimpleCalculations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\eleon\Desktop\SimpleCalculations\USDtoBGN\bin\Debug\USDtoBGN.exe
+C:\Users\eleon\Desktop\SimpleCalculations\USDtoBGN\bin\Debug\USDtoBGN.pdb
+C:\Users\eleon\Desktop\SimpleCalculations\USDtoBGN\obj\Debug\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Desktop\SimpleCalculations\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\eleon\Desktop\SimpleCalculations\USDtoBGN\obj\Debug\USDtoBGN.pdb
