@@ -1,0 +1,24 @@
+06. Square of Stars 
+
+Write a C# console program that reads from the console an integer N and prints on the console a square made out of N stars, like in the examples below.
+
+Sample Input and Output
+Input	
+3	
+Output
+***
+* *
+***	
+
+4	
+****
+*  *
+*  *
+****
+
+5
+*****
+*   *
+*   *
+*   *
+*****

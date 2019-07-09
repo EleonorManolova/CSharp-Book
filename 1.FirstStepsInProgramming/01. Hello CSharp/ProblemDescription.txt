@@ -1,0 +1,5 @@
+01. Hello C# 
+
+Write the following command:
+
+Console.WriteLine("Hello C#");

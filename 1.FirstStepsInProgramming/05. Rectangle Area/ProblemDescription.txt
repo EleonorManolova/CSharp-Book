@@ -1,0 +1,9 @@
+05. Rectangle Area 
+
+Write a C# program that reads from the console two numbers, a and b, calculates and prints the area of a rectangle with sides a and b.
+
+Sample Input and Output
+a	b	area
+2	7	14
+7 8	56
+12  5	60
