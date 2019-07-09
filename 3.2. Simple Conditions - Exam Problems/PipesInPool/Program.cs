@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PipesInPool
+﻿namespace PipesInPool
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             double v = int.Parse(Console.ReadLine());
             int p1 = int.Parse(Console.ReadLine());
@@ -21,8 +17,9 @@ namespace PipesInPool
                     Math.Truncate(p1 * h / vfull * 100),
                     Math.Truncate(p2 * h / vfull * 100));
             else
+            {
                 Console.WriteLine("For " + h + " hours the pool overflows with " + (vfull - v) + " liters.");
-
+            }
         }
     }
 }
