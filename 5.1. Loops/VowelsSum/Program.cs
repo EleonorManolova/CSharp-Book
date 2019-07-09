@@ -1,26 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace VowelsSum
+﻿namespace VowelsSum
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var s = Console.ReadLine();
+            var lines = Console.ReadLine();
 
             var sum = 0;
-            for (int i = 0; i < s.Length; i++)
+            for (int i = 0; i < lines.Length; i++)
             {
-                if (s[i] == 'a') sum += 1;
-                else if (s[i] == 'e') sum += 2;
-                else if (s[i] == 'i') sum += 3;
-                else if (s[i] == 'o') sum += 4;
-                else if (s[i] == 'u') sum += 5;
+                if (lines[i] == 'a') sum += 1;
+                else if (lines[i] == 'e') sum += 2;
+                else if (lines[i] == 'i') sum += 3;
+                else if (lines[i] == 'o') sum += 4;
+                else if (lines[i] == 'u') sum += 5;
             }
+
             Console.WriteLine("Vowels sum = " + sum);
         }
     }

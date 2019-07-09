@@ -1,23 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MaxNumber
+﻿namespace MaxNumber
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
             var min = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n - 1; i++)
+            for (int i = 0; i < lines - 1; i++)
             {
                 var num = int.Parse(Console.ReadLine());
                 if (num < min)
                     min = num;
             }
+
             Console.WriteLine(min);
         }
     }

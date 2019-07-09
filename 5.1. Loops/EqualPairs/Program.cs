@@ -1,40 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EqualPairs
+﻿namespace EqualPairs
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var n = int.Parse(Console.ReadLine());
-            int cursum = 0;
-            int prsum = 0;
+            int curSum = 0;
+            int prSum = 0;
             int maxDiff = 0;
-            int diff = 0;
 
             for (int i = 0; i < n; i++)
             {
-                prsum = cursum;
-                cursum = 0;
-                cursum += int.Parse(Console.ReadLine());
-                cursum += int.Parse(Console.ReadLine());
+                prSum = curSum;
+                curSum = 0;
+                curSum += int.Parse(Console.ReadLine());
+                curSum += int.Parse(Console.ReadLine());
                 if (i > 0)
                 {
-                    diff = Math.Abs(cursum - prsum);
+                    var diff = Math.Abs(curSum - prSum);
                     if (diff > maxDiff && diff != 0)
                         maxDiff = diff;
                 }
 
             }
-            if (prsum == cursum || n == 1)
-                Console.WriteLine("Yes, value={0}", cursum);
-            else
-                Console.WriteLine("No, maxdiff={0}", maxDiff);
 
+            if (prSum == curSum || n == 1)
+            {
+                Console.WriteLine("Yes, value={0}", curSum);
+            }
+            else
+            {
+                Console.WriteLine("No, maxdiff={0}", maxDiff);
+            }
         }
     }
 }
