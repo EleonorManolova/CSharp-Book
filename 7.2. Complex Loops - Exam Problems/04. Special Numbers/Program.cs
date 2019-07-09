@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04.Special_Numbers
+﻿namespace _04.Special_Numbers
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
 
             for (var d1 = 1; d1 <= 9; d1++)
             {
@@ -20,14 +16,13 @@ namespace _04.Special_Numbers
                     {
                         for (int d4 = 1; d4 <= 9; d4++)
                         {
-                            if (n % d1 == 0 && n % d2 == 0 && n % d3 == 0 && n % d4 == 0)
+                            if (lines % d1 == 0 && lines % d2 == 0 && lines % d3 == 0 && lines % d4 == 0)
                             {
                                 Console.Write("{0}{1}{2}{3} ", d1, d2, d3, d4);
                             }
                         }
                     }
                 }
-                
             }
         }
     }
