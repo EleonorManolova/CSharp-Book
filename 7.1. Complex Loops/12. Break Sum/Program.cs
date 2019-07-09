@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _12.Break_Sum
+﻿namespace _12.Break_Sum
 {
-    class Program
+using System;
+
+   public class Program
     {
-        static void Main(string[] args)
+      public  static void Main()
         {
             bool hasToEnd = false;
             for (int i = 1; i <= 3; i++)
@@ -22,6 +18,7 @@ namespace _12.Break_Sum
                             hasToEnd = true;
                             break;
                         }
+
                         Console.WriteLine(i + " " + j);
                     }
                 }

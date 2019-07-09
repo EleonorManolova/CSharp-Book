@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NumersNto1
+﻿namespace NumersNto1
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
-            for (int i = n; i >= 1; i--)
+            var lines = int.Parse(Console.ReadLine());
+            for (int i = lines; i >= 1; i--)
             {
                 Console.WriteLine(i);
             }

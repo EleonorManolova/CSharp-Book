@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _15.Number_Pyramid
+﻿namespace _15.Number_Pyramid
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
             var num = 1;
-            for (int row = 1; row <= n; row++)
+            for (int row = 1; row <= lines; row++)
             {
                 for (int col = 0; col < row; col++)
                 {
@@ -20,16 +16,17 @@ namespace _15.Number_Pyramid
                     {
                         Console.Write(" ");
                     }
+
                     Console.Write(num);
                     num++;
-                    if (num > n)
+                    if (num > lines)
                         break;
                 }
+
                 Console.WriteLine();
-                if (num > n)
+                if (num > lines)
                     break;
             }
-            
         }
     }
 }

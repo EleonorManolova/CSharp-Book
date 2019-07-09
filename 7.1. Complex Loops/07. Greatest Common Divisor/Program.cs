@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07.Greatest_Common_Divisor
+﻿namespace _07.Greatest_Common_Divisor
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var a = int.Parse(Console.ReadLine());
             var b = int.Parse(Console.ReadLine());
@@ -18,8 +14,8 @@ namespace _07.Greatest_Common_Divisor
                 b = a % b;
                 a = temp;
             }
-            Console.WriteLine(a);
 
+            Console.WriteLine(a);
         }
     }
 }

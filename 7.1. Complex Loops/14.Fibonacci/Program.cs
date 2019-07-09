@@ -1,25 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _12.Break_Sum
+﻿namespace _12.Break_Sum
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
 
             var f0 = 1;
             var f1 = 1;
-            for (int i = 1; i <= n-1; i++)
+            for (int i = 1; i <= lines - 1; i++)
             {
                 var sum = f0 + f1;
                 f0 = f1;
                 f1 = sum;
             }
+
             Console.WriteLine(f1);
         }
     }

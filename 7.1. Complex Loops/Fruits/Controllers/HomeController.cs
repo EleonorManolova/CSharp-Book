@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-
-namespace Fruits.Controllers
+﻿namespace Fruits.Controllers
 {
+    using System;
+    using System.Web.Mvc;
+
     public class HomeController : Controller
     {
         static int rowsCount = 3;
@@ -13,7 +10,7 @@ namespace Fruits.Controllers
         static string[,] fruits = GenerateRandomFruits();
         static int score = 0;
         static bool gameOver = false;
-        
+
         private static string[,] GenerateRandomFruits()
         {
             var rand = new Random();
@@ -32,7 +29,6 @@ namespace Fruits.Controllers
                 }
             }
             return fruits;
-            
         }
 
         public ActionResult Index()
@@ -52,6 +48,7 @@ namespace Fruits.Controllers
             fruits = GenerateRandomFruits();
             return Redirect("Index");
         }
+
         public ActionResult FireTop(int position)
         {
             score = 0;

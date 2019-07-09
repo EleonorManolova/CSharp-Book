@@ -1,27 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _16.Number_Table
+﻿namespace _16.Number_Table
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
-            for (int row = 0; row <= n-1; row++)
+            var lines = int.Parse(Console.ReadLine());
+            for (int row = 0; row <= lines - 1; row++)
             {
-                for (int col = 0; col <= n-1; col++)
+                for (int col = 0; col <= lines - 1; col++)
                 {
                     var num = row + col + 1;
-                    if (num > n)
+                    if (num > lines)
                     {
-                        num = - num + 2  *n;
+                        num = -num + 2 * lines;
                     }
                     Console.Write(num + " ");
                 }
+
                 Console.WriteLine();
             }
         }

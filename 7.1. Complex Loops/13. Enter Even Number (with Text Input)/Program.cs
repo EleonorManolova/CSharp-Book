@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _13.Enter_Even_Number__with_Text_Input_
+﻿namespace _13.Enter_Even_Number__with_Text_Input_
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            
             while (true)
             {
-
                 try
                 {
                     var n = int.Parse(Console.ReadLine());
@@ -22,6 +16,7 @@ namespace _13.Enter_Even_Number__with_Text_Input_
                         Console.WriteLine("Even number entered: {0}", n);
                         break;
                     }
+
                     Console.WriteLine("The number is not even.");
                 }
                 catch
@@ -29,7 +24,6 @@ namespace _13.Enter_Even_Number__with_Text_Input_
                     Console.WriteLine("Invalid number.");
                 }
             }
-
         }
     }
 }

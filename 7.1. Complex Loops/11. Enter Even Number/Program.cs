@@ -1,26 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _11.Enter_Even_Number
+﻿namespace _11.Enter_Even_Number
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = 0;
+            var lines = 0;
             while (true)
             {
-                n = int.Parse(Console.ReadLine());
-                if (n % 2 == 0)
+                lines = int.Parse(Console.ReadLine());
+                if (lines % 2 == 0)
                 {
                     break;
                 }
+
                 Console.WriteLine("The number is not even.");
             }
-            Console.WriteLine("Even number entered: {0}", n);
+
+            Console.WriteLine("Even number entered: {0}", lines);
         }
     }
 }

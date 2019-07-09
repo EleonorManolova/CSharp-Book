@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _05.Sequence_2k_1
+﻿namespace _05.Sequence_2k_1
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
             var num = 1;
-            while (num <= n)
+            while (num <= lines)
             {
                 Console.WriteLine(num);
                 num = 2 * num + 1;
