@@ -1,0 +1,11 @@
+06. Circle Area and Perimeter 
+
+Write a program that reads from the console a number r and calculates and prints the area and perimeter of a circle with radius r.
+
+Input and Output
+Input     	Output
+  3	        Area = 28.2743338823081 
+            Perimeter = 18.8495559215388
+            
+ 4.5	      Area = 63.6172512351933 
+            Perimeter = 28.2743338823081
