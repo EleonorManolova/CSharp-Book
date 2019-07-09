@@ -1,19 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace InvalidNumber
+﻿namespace InvalidNumber
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var num = double.Parse(Console.ReadLine());
-            var inRange = (num >= 100 && num <= 200 || num == 0);
+            var number = double.Parse(Console.ReadLine());
+            var inRange = (number >= 100 && number <= 200 || number == 0);
             if (!inRange)
+            {
                 Console.WriteLine("invalid");
+            }
         }
     }
 }

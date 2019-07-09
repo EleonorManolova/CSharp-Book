@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FruitShop
+﻿namespace FruitShop
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var fruit = Console.ReadLine().ToLower();
             var day = Console.ReadLine().ToLower();
@@ -43,7 +39,9 @@ namespace FruitShop
                 Console.WriteLine("{0:f2}", price * quantity);
             }
             else
+            {
                 Console.WriteLine("error");
+            }
         }
     }
 }

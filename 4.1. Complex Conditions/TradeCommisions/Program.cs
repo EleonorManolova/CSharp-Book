@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TradeCommisions
+﻿namespace TradeCommisions
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var city = Console.ReadLine().ToLower();
             var sales = double.Parse(Console.ReadLine());
 
-            var comision = -1.0; 
+            var comision = -1.0;
 
             if (city == "sofia")
             {
@@ -37,9 +33,13 @@ namespace TradeCommisions
                 else if (sales > 1000) comision = 0.145;
             }
             if (comision >= 0)
+            {
                 Console.WriteLine("{0:f2}", comision * sales);
+            }
             else
+            {
                 Console.WriteLine("error");
+            }
 
         }
     }

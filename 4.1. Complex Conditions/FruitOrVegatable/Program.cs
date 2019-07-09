@@ -1,23 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FruitOrVegatable
+﻿namespace FruitOrVegatable
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var s = Console.ReadLine();
+    using System;
 
-            if (s == "banana" || s == "apple" || s == "kiwi" || s == "cherry" || s == "lemon" || s == "grapes")
+    public class Program
+    {
+        public static void Main()
+        {
+            var input = Console.ReadLine();
+
+            if (input == "banana" || input == "apple" || input == "kiwi" || input == "cherry" || input == "lemon" || input == "grapes")
+            {
                 Console.WriteLine("fruit");
-            else if (s == "tomato" || s == "cucumber" || s == "pepper" || s == "carrot")
+            }
+            else if (input == "tomato" || input == "cucumber" || input == "pepper" || input == "carrot")
+            {
                 Console.WriteLine("vegetable");
+            }
             else
+            {
                 Console.WriteLine("unknown");
+            }
         }
     }
 }

@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PointInTheFigure2
+﻿namespace PointInTheFigure2
 {
-    class Program
+    using System;
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var h = int.Parse(Console.ReadLine());
             var x = int.Parse(Console.ReadLine());
@@ -23,11 +18,17 @@ namespace PointInTheFigure2
             bool commonBorder = (x > h && x < 2 * h && y == h);
 
             if (outRectangle1 && outRectangle2)
+            {
                 Console.WriteLine("outside");
+            }
             else if (inRange1 || inRange2 || commonBorder)
+            {
                 Console.WriteLine("inside");
+            }
             else
+            {
                 Console.WriteLine("border");
+            }
         }
     }
 }

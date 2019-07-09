@@ -1,19 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Day_of_Week
+﻿namespace Day_of_Week
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int day = int.Parse(Console.ReadLine());
             switch (day)
             {
-                case 1: Console.WriteLine("Monday");
+                case 1:
+                    Console.WriteLine("Monday");
                     break;
                 case 2:
                     Console.WriteLine("Tuesday");
@@ -33,7 +30,8 @@ namespace Day_of_Week
                 case 7:
                     Console.WriteLine("Sunday");
                     break;
-                default: Console.WriteLine("Error!");
+                default:
+                    Console.WriteLine("Error!");
                     break;
             }
         }

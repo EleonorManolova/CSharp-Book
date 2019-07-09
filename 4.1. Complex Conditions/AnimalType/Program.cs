@@ -1,19 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AnimalType
+﻿namespace AnimalType
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var animal = Console.ReadLine();
             switch (animal)
             {
-                case "dog": Console.WriteLine("mammal");
+                case "dog":
+                    Console.WriteLine("mammal");
                     break;
                 case "crocodile":
                 case "tortoise":

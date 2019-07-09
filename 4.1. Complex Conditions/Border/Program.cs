@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Border
+﻿namespace Border
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var x1 = double.Parse(Console.ReadLine());
             var y1 = double.Parse(Console.ReadLine());
@@ -23,9 +19,13 @@ namespace Border
             var onDownSide = (y == y2) && (x >= x1) && (x <= x2);
 
             if (onLeftSide || onRightSide || onUpSide || onDownSide)
+            {
                 Console.WriteLine("Border");
+            }
             else
+            {
                 Console.WriteLine("Inside / Outside");
+            }
         }
     }
 }
