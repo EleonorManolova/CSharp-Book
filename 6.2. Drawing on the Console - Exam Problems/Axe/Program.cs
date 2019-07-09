@@ -1,37 +1,40 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Axe
+﻿namespace Axe
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
-            var front = 3 * n;
-            Console.WriteLine("{0}**{1}", new string('-', front), new string('-', 5 * n - 2 - front));
+            var lines = int.Parse(Console.ReadLine());
+            var front = 3 * lines;
+            Console.WriteLine("{0}**{1}", new string('-', front), new string('-', 5 * lines - 2 - front));
             var middle = 0;
-            for (int row = 0; row < n-1; row++)
+
+            for (int row = 0; row < lines - 1; row++)
             {
                 middle++;
-                Console.WriteLine("{0}*{1}*{2}", new string('-', front), new string('-', middle), new string('-', 5 * n - 2 - front -middle));
-                
+                Console.WriteLine("{0}*{1}*{2}", new string('-', front), new string('-', middle), new string('-', 5 * lines - 2 - front - middle));
+
             }
-            for (int i = 0; i < n / 2; i++)
+
+            for (int i = 0; i < lines / 2; i++)
             {
-                Console.WriteLine("{0}*{1}*{2}", new string('*', front), new string('-', middle), new string('-', 5 * n - 2 - front - middle));
+                Console.WriteLine("{0}*{1}*{2}", new string('*', front), new string('-', middle), new string('-', 5 * lines - 2 - front - middle));
             }
-           
-            for (int row = 1; row <= n / 2; row++)
+
+            for (int row = 1; row <= lines / 2; row++)
             {
-                if (row != n/2)
-                    Console.WriteLine("{0}*{1}*{2}", new string('-', front), new string('-', middle), new string('-', 5 * n - 2 - front - middle));
-                
+                if (row != lines / 2)
+                {
+                    Console.WriteLine("{0}*{1}*{2}", new string('-', front), new string('-', middle), new string('-', 5 * lines - 2 - front - middle));
+                }
+
                 else
-                    Console.WriteLine("{0}*{1}*{2}", new string('-', front), new string('*', middle), new string('-', 5 * n - 2 - front - middle));
+                {
+                    Console.WriteLine("{0}*{1}*{2}", new string('-', front), new string('*', middle), new string('-', 5 * lines - 2 - front - middle));
+                }
+
                 middle += 2;
                 front--;
             }

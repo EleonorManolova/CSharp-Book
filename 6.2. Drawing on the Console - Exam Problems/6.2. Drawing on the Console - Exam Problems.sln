@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw-Fort", "Draw-Fort\Draw-Fort.csproj", "{84C63BC5-964A-448C-A471-D9CCC5BBC183}"
 EndProject
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butterfly", "Буттерф
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STOP", "STOP\STOP.csproj", "{89C99D27-8006-4FB7-B537-CE8D776B250D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrow", "arrow\arrow.csproj", "{05D13C03-4611-462A-882A-4FCD172BE8D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow", "arrow\Arrow.csproj", "{05D13C03-4611-462A-882A-4FCD172BE8D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axe", "Axe\Axe.csproj", "{0285D71B-09D3-4655-9439-D047FFFA19D7}"
 EndProject
