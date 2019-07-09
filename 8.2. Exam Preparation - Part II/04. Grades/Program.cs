@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04.Grades
+﻿namespace _04.Grades
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
 
@@ -23,9 +19,10 @@ namespace _04.Grades
                 if (grade >= 5) topstudents++;
                 else if (grade >= 4) verygoodStudents++;
                 else if (grade >= 3) goodStudents++;
-                else  failStudents++;
+                else failStudents++;
                 allGrades += grade;
             }
+
             Console.WriteLine("Top students: {0:f2}%", topstudents / n * 100.0);
             Console.WriteLine("Between 4.00 and 4.99: {0:f2}%", verygoodStudents / n * 100.0);
             Console.WriteLine("Between 3.00 and 3.99: {0:f2}%", goodStudents / n * 100.0);

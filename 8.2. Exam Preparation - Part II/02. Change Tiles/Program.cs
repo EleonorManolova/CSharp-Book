@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Change_Tiles
+﻿namespace _02.Change_Tiles
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var savedMoney = double.Parse(Console.ReadLine());
             var width = double.Parse(Console.ReadLine());
@@ -23,6 +19,7 @@ namespace _02.Change_Tiles
             double number = Math.Ceiling(sizeRoom / size) + 5;
             double moneyCost = number * costPerOne + workerCost;
             double moneyleft = savedMoney - moneyCost;
+
             if (moneyleft >= 0)
             {
                 Console.WriteLine("{0:f2} lv left.", moneyleft);
