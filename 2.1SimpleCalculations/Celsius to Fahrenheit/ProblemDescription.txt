@@ -1,0 +1,11 @@
+09. Celsius to Fahrenheit 
+
+Write a program that reads degrees on Celsius scale (°C) and converts them to degrees on Fahrenheit scale (°F).
+Look on the Internet for a proper formula to do the calculations.
+Round the result to 2 digits after the decimal point. Here are a few examples:
+
+Input	  Output
+25	    77
+0	      32
+-5.5	  22.1
+32.3	  90.14
