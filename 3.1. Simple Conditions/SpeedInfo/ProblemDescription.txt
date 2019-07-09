@@ -1,0 +1,13 @@
+12. Speed Info 
+
+Write a program that inputs the speed (decimal number) and prints speed information. 
+For speed up to 10 (inclusive), print "slow". For speed over 10 and up to 50, print "average". 
+For speed over 50 and up to 150, print "fast". 
+For speed over 150 and up to 1000, print "ultra fast". For higher speed, print "extremely fast".
+
+Input	  Output
+8	      slow
+49.5	  average
+126	    fast
+160   	ultra fast
+3500	  extremely fast  
