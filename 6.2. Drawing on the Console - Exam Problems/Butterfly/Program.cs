@@ -1,37 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Буттерфлъ
+﻿namespace Butterfly
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            
-            for (int row = 1; row <= n - 1; row++)
-            {  
-                if(row == n - 1)
-                    Console.WriteLine("{0}@{0}", new string(' ', n - 1));
+            int lines = int.Parse(Console.ReadLine());
+
+            for (int row = 1; row <= lines - 1; row++)
+            {
+                if (row == lines - 1)
+                    Console.WriteLine("{0}@{0}", new string(' ', lines - 1));
                 else if (row % 2 == 0)
-                    Console.WriteLine("{0}\\ /{0}", new string('-', n - 2));
+                    Console.WriteLine("{0}\\ /{0}", new string('-', lines - 2));
                 else
-                    Console.WriteLine("{0}\\ /{0}", new string('*', n - 2));
-                
+                    Console.WriteLine("{0}\\ /{0}", new string('*', lines - 2));
             }
-            for (int row = 1; row <= n - 2; row++)
+
+            for (int row = 1; row <= lines - 2; row++)
             {
                 if (row % 2 == 0)
-                    Console.WriteLine("{0}/ \\{0}", new string('-', n - 2));
+                    Console.WriteLine("{0}/ \\{0}", new string('-', lines - 2));
                 else
-                    Console.WriteLine("{0}/ \\{0}", new string('*', n - 2));
-
+                    Console.WriteLine("{0}/ \\{0}", new string('*', lines - 2));
             }
-
-
         }
     }
 }
