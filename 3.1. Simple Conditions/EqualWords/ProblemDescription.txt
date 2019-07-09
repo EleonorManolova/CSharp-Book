@@ -1,0 +1,21 @@
+11. Equal Words 
+
+Write a program that inputs two words and checks if they are the same.
+Do not make difference between uppercase and lowercase letters. 
+You have to print "yes" or "no".
+
+Input	    Output
+Hello
+Hello	    yes
+
+SoftUni
+softuni	  yes
+
+Soft
+Uni	      no
+
+banana
+lemon	    no
+
+HeLlO
+hELLo	    yes
