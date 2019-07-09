@@ -1,37 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AreaOfFigures
+﻿namespace AreaOfFigures
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             string figure = Console.ReadLine().ToLower();
-            var a = double.Parse(Console.ReadLine());
-            var face = 0.0;
+            var size = double.Parse(Console.ReadLine());
+            var area = 0.0;
             if (figure == "square")
             {
-                face = a * a;
+                area = size * size;
             }
             else if (figure == "rectangle")
             {
                 var b = double.Parse(Console.ReadLine());
-                face = a * b;
+                area = size * b;
             }
             else if (figure == "circle")
             {
-                face = Math.PI * a * a;
+                area = Math.PI * size * size;
             }
             else if (figure == "triangle")
             {
                 var h = double.Parse(Console.ReadLine());
-                face = a * h / 2.0;
+                area = size * h / 2.0;
             }
-            Console.WriteLine(Math.Round(face, 3));
+            Console.WriteLine(Math.Round(area, 3));
 
         }
     }

@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Guess_the_Password
+﻿namespace Guess_the_Password
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             string password = Console.ReadLine();
             if (password == "s3cr3t!P@ssw0rd")
             {
-                Console.WriteLine ("Welcome");
+                Console.WriteLine("Welcome");
             }
             else
             {

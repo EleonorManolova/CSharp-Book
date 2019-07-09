@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BonusScore
+﻿namespace BonusScore
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var num = double.Parse(Console.ReadLine());
             var bonus = 0.0;
@@ -22,7 +18,7 @@ namespace BonusScore
             }
             else
             {
-                bonus = bonus +  num * 0.1;
+                bonus = bonus + num * 0.1;
             }
             if (num % 2 == 0)
             {

@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GreaterNumber
+﻿namespace GreaterNumber
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.WriteLine("Enter two integers:");
             var num1 = int.Parse(Console.ReadLine());

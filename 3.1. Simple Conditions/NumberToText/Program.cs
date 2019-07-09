@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NumberToText
+﻿namespace NumberToText
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int num = int.Parse(Console.ReadLine());
             if (num == 0)
@@ -51,7 +47,7 @@ namespace NumberToText
             {
                 Console.WriteLine("nine");
             }
-            else 
+            else
             {
                 Console.WriteLine("number too big");
             }

@@ -1,30 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SumSeconds
+﻿namespace SumSeconds
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var num1 = int.Parse(Console.ReadLine());
             var num2 = int.Parse(Console.ReadLine());
             var num3 = int.Parse(Console.ReadLine());
             var seconds = num1 + num2 + num3;
             var minutes = 0;
+
             if (seconds >= 60)
             {
-                minutes ++;
+                minutes++;
                 seconds -= 60;
             }
+
             if (seconds > 60)
             {
                 minutes += 1;
                 seconds -= 60;
             }
+
             if (seconds < 10)
             {
                 Console.WriteLine(minutes + ":0" + seconds);

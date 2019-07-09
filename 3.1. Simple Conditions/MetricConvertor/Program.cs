@@ -1,19 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace MetricConvertor
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var num = double.Parse(Console.ReadLine());
             string from = Console.ReadLine().ToLower();
             string to = Console.ReadLine().ToLower();
-           
+
             if (from == "mm")
             {
                 num = num / 1000;
@@ -47,7 +44,7 @@ namespace MetricConvertor
             {
                 num = num * 1000;
             }
-             else if (to == "cm")
+            else if (to == "cm")
             {
                 num = num * 100;
             }
@@ -71,7 +68,7 @@ namespace MetricConvertor
             {
                 num = num * 1.0936133;
             }
-            Console.WriteLine(num +" " + to);
+            Console.WriteLine(num + " " + to);
         }
     }
 }
