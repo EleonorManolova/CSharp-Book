@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\bin\Debug\Rombus-of-Stars.exe.config
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\bin\Debug\Rombus-of-Stars.exe
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\bin\Debug\Rombus-of-Stars.pdb
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\obj\Debug\Rombus-of-Stars.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\obj\Debug\Rombus-of-Stars.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\obj\Debug\Rombus-of-Stars.exe
+C:\Elie\SoftUni\Draw-Figures\Rombus-of-Stars\obj\Debug\Rombus-of-Stars.pdb

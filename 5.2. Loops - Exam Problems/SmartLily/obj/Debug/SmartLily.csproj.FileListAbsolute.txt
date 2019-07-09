@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\LoopsEx\SmartLily\bin\Debug\SmartLily.exe.config
+C:\Elie\SoftUni\LoopsEx\SmartLily\bin\Debug\SmartLily.exe
+C:\Elie\SoftUni\LoopsEx\SmartLily\bin\Debug\SmartLily.pdb
+C:\Elie\SoftUni\LoopsEx\SmartLily\obj\Debug\SmartLily.csprojAssemblyReference.cache
+C:\Elie\SoftUni\LoopsEx\SmartLily\obj\Debug\SmartLily.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\LoopsEx\SmartLily\obj\Debug\SmartLily.exe
+C:\Elie\SoftUni\LoopsEx\SmartLily\obj\Debug\SmartLily.pdb

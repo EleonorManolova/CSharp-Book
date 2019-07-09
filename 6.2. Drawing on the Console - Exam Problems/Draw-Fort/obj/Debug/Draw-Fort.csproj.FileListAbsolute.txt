@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\bin\Debug\Draw-Fort.exe.config
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\bin\Debug\Draw-Fort.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\bin\Debug\Draw-Fort.pdb
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\obj\Debug\Draw-Fort.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\obj\Debug\Draw-Fort.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\obj\Debug\Draw-Fort.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\Draw-Fort\obj\Debug\Draw-Fort.pdb

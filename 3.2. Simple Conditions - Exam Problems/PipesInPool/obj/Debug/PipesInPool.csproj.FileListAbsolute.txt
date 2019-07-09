@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\bin\Debug\PipesInPool.exe.config
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\bin\Debug\PipesInPool.exe
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\bin\Debug\PipesInPool.pdb
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\obj\Debug\PipesInPool.csprojAssemblyReference.cache
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\obj\Debug\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\obj\Debug\PipesInPool.exe
+C:\Elie\SoftUni\SimpleConditions\PipesInPool\obj\Debug\PipesInPool.pdb

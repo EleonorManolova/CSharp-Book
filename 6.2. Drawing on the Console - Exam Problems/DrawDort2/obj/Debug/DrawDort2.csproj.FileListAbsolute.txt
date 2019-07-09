@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Draw-Figures-Ex\DrawDort2\bin\Debug\DrawDort2.exe.config
+C:\Elie\SoftUni\Draw-Figures-Ex\DrawDort2\bin\Debug\DrawDort2.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\DrawDort2\bin\Debug\DrawDort2.pdb
+C:\Elie\SoftUni\Draw-Figures-Ex\DrawDort2\obj\Debug\DrawDort2.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\DrawDort2\obj\Debug\DrawDort2.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\DrawDort2\obj\Debug\DrawDort2.pdb

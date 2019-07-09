@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\obj\Debug\06. Letters Combinations.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\obj\Debug\06. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe.config
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.pdb
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.exe
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.pdb

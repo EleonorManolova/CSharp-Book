@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\bin\Debug\_06.Math_Power.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\bin\Debug\_06.Math_Power.exe
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\bin\Debug\_06.Math_Power.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\obj\Debug\06. Math Power.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\obj\Debug\06. Math Power.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\obj\Debug\_06.Math_Power.exe
+C:\Elie\SoftUni\C#Book\10. Methods\06. Math Power\obj\Debug\_06.Math_Power.pdb

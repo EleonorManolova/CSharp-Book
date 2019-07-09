@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\09. Perfect Diamond\obj\Debug\09. Perfect Diamond.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\09. Perfect Diamond\obj\Debug\_09.Perfect_Diamond.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\09. Perfect Diamond\obj\Debug\_09.Perfect_Diamond.pdb

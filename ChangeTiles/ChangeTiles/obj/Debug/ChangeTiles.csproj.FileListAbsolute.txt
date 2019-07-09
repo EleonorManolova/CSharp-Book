@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\bin\Debug\ChangeTiles.exe.config
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\bin\Debug\ChangeTiles.exe
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\bin\Debug\ChangeTiles.pdb
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\obj\Debug\ChangeTiles.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\obj\Debug\ChangeTiles.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\obj\Debug\ChangeTiles.exe
+C:\Users\eleon\source\repos\ChangeTiles\ChangeTiles\obj\Debug\ChangeTiles.pdb

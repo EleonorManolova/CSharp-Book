@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\Loop\Min number\bin\Debug\Min number.exe.config
+C:\Users\eleon\source\repos\Loop\Min number\bin\Debug\Min number.exe
+C:\Users\eleon\source\repos\Loop\Min number\bin\Debug\Min number.pdb
+C:\Users\eleon\source\repos\Loop\Min number\obj\Debug\Min number.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\Min number\obj\Debug\Min number.exe
+C:\Users\eleon\source\repos\Loop\Min number\obj\Debug\Min number.pdb

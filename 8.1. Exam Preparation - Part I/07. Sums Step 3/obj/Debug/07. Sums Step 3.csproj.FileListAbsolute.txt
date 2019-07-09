@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\bin\Debug\_07.Sums_Step_3.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\bin\Debug\_07.Sums_Step_3.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\bin\Debug\_07.Sums_Step_3.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\obj\Debug\07. Sums Step 3.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\obj\Debug\07. Sums Step 3.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\obj\Debug\_07.Sums_Step_3.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\07. Sums Step 3\obj\Debug\_07.Sums_Step_3.pdb

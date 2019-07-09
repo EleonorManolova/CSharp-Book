@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\4.1\SmallShop\bin\Debug\SmallShop.exe.config
+C:\Elie\SoftUni\4.1\SmallShop\bin\Debug\SmallShop.exe
+C:\Elie\SoftUni\4.1\SmallShop\bin\Debug\SmallShop.pdb
+C:\Elie\SoftUni\4.1\SmallShop\obj\Debug\SmallShop.csprojAssemblyReference.cache
+C:\Elie\SoftUni\4.1\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\SmallShop\obj\Debug\SmallShop.exe
+C:\Elie\SoftUni\4.1\SmallShop\obj\Debug\SmallShop.pdb

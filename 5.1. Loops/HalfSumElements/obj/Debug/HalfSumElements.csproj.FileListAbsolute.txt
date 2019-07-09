@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Loop\HalfSumElements\bin\Debug\HalfSumElements.exe.config
+C:\Elie\SoftUni\Loop\HalfSumElements\bin\Debug\HalfSumElements.exe
+C:\Elie\SoftUni\Loop\HalfSumElements\bin\Debug\HalfSumElements.pdb
+C:\Elie\SoftUni\Loop\HalfSumElements\obj\Debug\HalfSumElements.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Loop\HalfSumElements\obj\Debug\HalfSumElements.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Loop\HalfSumElements\obj\Debug\HalfSumElements.exe
+C:\Elie\SoftUni\Loop\HalfSumElements\obj\Debug\HalfSumElements.pdb

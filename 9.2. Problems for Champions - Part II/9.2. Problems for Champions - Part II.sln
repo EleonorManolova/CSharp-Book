@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Crossing sequences", "01. Crossing sequences\01. Crossing sequences.csproj", "{77B55253-7F2A-4F0F-A462-94820D44D512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Magic Dates", "02. Magic Dates\02. Magic Dates.csproj", "{AD18240F-79E4-4983-8703-5D16A534E66C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B55253-7F2A-4F0F-A462-94820D44D512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B55253-7F2A-4F0F-A462-94820D44D512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B55253-7F2A-4F0F-A462-94820D44D512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B55253-7F2A-4F0F-A462-94820D44D512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD18240F-79E4-4983-8703-5D16A534E66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD18240F-79E4-4983-8703-5D16A534E66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD18240F-79E4-4983-8703-5D16A534E66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD18240F-79E4-4983-8703-5D16A534E66C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6893463A-9FE4-4D89-AF3F-ABAE0CE74561}
+	EndGlobalSection
+EndGlobal

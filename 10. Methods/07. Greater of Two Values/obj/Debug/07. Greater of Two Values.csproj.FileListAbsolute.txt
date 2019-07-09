@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\bin\Debug\_07.Greater_of_Two_Values.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\bin\Debug\_07.Greater_of_Two_Values.exe
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\bin\Debug\_07.Greater_of_Two_Values.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\obj\Debug\07. Greater of Two Values.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\obj\Debug\07. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\obj\Debug\_07.Greater_of_Two_Values.exe
+C:\Elie\SoftUni\C#Book\10. Methods\07. Greater of Two Values\obj\Debug\_07.Greater_of_Two_Values.pdb

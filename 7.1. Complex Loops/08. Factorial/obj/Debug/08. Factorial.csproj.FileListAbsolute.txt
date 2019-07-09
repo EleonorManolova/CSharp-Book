@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\08. Factorial\obj\Debug\08. Factorial.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\08. Factorial\bin\Debug\_08.Factorial.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\08. Factorial\bin\Debug\_08.Factorial.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\08. Factorial\bin\Debug\_08.Factorial.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\08. Factorial\obj\Debug\_08.Factorial.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\08. Factorial\obj\Debug\_08.Factorial.pdb

@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\Number-100to200\bin\Debug\Number-100to200.exe.config
+C:\Users\eleon\source\repos\If-Else\Number-100to200\bin\Debug\Number-100to200.exe
+C:\Users\eleon\source\repos\If-Else\Number-100to200\bin\Debug\Number-100to200.pdb
+C:\Users\eleon\source\repos\If-Else\Number-100to200\obj\Debug\Number-100to200.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\Number-100to200\obj\Debug\Number-100to200.exe
+C:\Users\eleon\source\repos\If-Else\Number-100to200\obj\Debug\Number-100to200.pdb

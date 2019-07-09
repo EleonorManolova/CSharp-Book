@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Elie\SoftUni\Draw-Figures\Rectangle\bin\Debug\Rectangle.exe
+C:\Elie\SoftUni\Draw-Figures\Rectangle\bin\Debug\Rectangle.pdb
+C:\Elie\SoftUni\Draw-Figures\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\Rectangle\obj\Debug\Rectangle.exe
+C:\Elie\SoftUni\Draw-Figures\Rectangle\obj\Debug\Rectangle.pdb

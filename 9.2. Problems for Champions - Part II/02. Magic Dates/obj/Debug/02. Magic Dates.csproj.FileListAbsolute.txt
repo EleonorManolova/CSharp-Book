@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\bin\Debug\_02.Magic_Dates.exe.config
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\bin\Debug\_02.Magic_Dates.exe
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\bin\Debug\_02.Magic_Dates.pdb
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\obj\Debug\02. Magic Dates.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\obj\Debug\02. Magic Dates.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\obj\Debug\_02.Magic_Dates.exe
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\02. Magic Dates\obj\Debug\_02.Magic_Dates.pdb

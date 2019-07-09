@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\4.1\Title\obj\Debug\Title.csprojAssemblyReference.cache
+C:\Elie\SoftUni\4.1\Title\obj\Debug\Title.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\Title\bin\Debug\Title.exe.config
+C:\Elie\SoftUni\4.1\Title\bin\Debug\Title.exe
+C:\Elie\SoftUni\4.1\Title\bin\Debug\Title.pdb
+C:\Elie\SoftUni\4.1\Title\obj\Debug\Title.exe
+C:\Elie\SoftUni\4.1\Title\obj\Debug\Title.pdb

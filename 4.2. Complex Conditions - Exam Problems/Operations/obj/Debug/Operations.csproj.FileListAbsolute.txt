@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\bin\Debug\Operations.exe.config
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\bin\Debug\Operations.exe
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\bin\Debug\Operations.pdb
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\obj\Debug\Operations.exe
+C:\Elie\SoftUni\ComplexConditionsEx\Operations\obj\Debug\Operations.pdb

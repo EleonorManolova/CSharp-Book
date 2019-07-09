@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\_02.Bricks.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\_02.Bricks.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\_02.Bricks.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\02. Bricks.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\_02.Bricks.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\_02.Bricks.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.exe
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\obj\Debug\05. Calculate Triangle Area.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\obj\Debug\05. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\obj\Debug\_05.Calculate_Triangle_Area.exe
+C:\Elie\SoftUni\C#Book\10. Methods\05. Calculate Triangle Area\obj\Debug\_05.Calculate_Triangle_Area.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\obj\Debug\14.Numbers to Words.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\obj\Debug\14.Numbers to Words.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\bin\Debug\14.Numbers to Words.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\bin\Debug\14.Numbers to Words.exe
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\bin\Debug\14.Numbers to Words.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\obj\Debug\14.Numbers to Words.exe
+C:\Elie\SoftUni\C#Book\10. Methods\14.Numbers to Words\obj\Debug\14.Numbers to Words.pdb

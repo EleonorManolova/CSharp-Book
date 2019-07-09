@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\_02.Magic_Combination.exe.config
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\_02.Magic_Combination.exe
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\_02.Magic_Combination.pdb
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\02. Magic Combination.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\02. Magic Combination.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\_02.Magic_Combination.exe
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\_02.Magic_Combination.pdb

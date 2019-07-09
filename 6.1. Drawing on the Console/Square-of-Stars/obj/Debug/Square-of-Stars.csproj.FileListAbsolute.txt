@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\bin\Debug\Square-of-Stars.exe.config
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\bin\Debug\Square-of-Stars.exe
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\bin\Debug\Square-of-Stars.pdb
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\obj\Debug\Square-of-Stars.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\obj\Debug\Square-of-Stars.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\obj\Debug\Square-of-Stars.exe
+C:\Elie\SoftUni\Draw-Figures\Square-of-Stars\obj\Debug\Square-of-Stars.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyRoom", "StudyRoom\StudyRoom.csproj", "{6F7168B5-8C9E-44D9-840D-9E9EDEC94D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyRoom2", "StudyRoom2\StudyRoom2.csproj", "{1CD02B21-E020-49F1-884F-C90CC62D169B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7168B5-8C9E-44D9-840D-9E9EDEC94D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7168B5-8C9E-44D9-840D-9E9EDEC94D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7168B5-8C9E-44D9-840D-9E9EDEC94D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7168B5-8C9E-44D9-840D-9E9EDEC94D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD02B21-E020-49F1-884F-C90CC62D169B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD02B21-E020-49F1-884F-C90CC62D169B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD02B21-E020-49F1-884F-C90CC62D169B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD02B21-E020-49F1-884F-C90CC62D169B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2040ED-0054-4708-8F86-86CBF7B44E1B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\bin\Debug\HotelRoom.exe.config
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\bin\Debug\HotelRoom.exe
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\bin\Debug\HotelRoom.pdb
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\obj\Debug\HotelRoom.csprojAssemblyReference.cache
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\obj\Debug\HotelRoom.exe
+C:\Elie\SoftUni\ComplexConditionsEx\HotelRoom\obj\Debug\HotelRoom.pdb

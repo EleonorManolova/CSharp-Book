@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\bin\Debug\_01.Blank_Receipt.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\bin\Debug\_01.Blank_Receipt.exe
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\bin\Debug\_01.Blank_Receipt.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\obj\Debug\01. Blank Receipt.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\obj\Debug\01. Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\obj\Debug\_01.Blank_Receipt.exe
+C:\Elie\SoftUni\C#Book\10. Methods\01. Blank Receipt\obj\Debug\_01.Blank_Receipt.pdb

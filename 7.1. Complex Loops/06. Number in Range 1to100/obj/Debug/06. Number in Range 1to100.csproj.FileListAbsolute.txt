@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\06. Number in Range 1to100\bin\Debug\_06.Number_in_Range_1to100.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\06. Number in Range 1to100\bin\Debug\_06.Number_in_Range_1to100.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\06. Number in Range 1to100\bin\Debug\_06.Number_in_Range_1to100.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\06. Number in Range 1to100\obj\Debug\06. Number in Range 1to100.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\06. Number in Range 1to100\obj\Debug\_06.Number_in_Range_1to100.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\06. Number in Range 1to100\obj\Debug\_06.Number_in_Range_1to100.pdb

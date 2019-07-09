@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\09. Sum Digits\obj\Debug\09. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

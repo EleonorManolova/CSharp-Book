@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\House\bin\Debug\House.exe.config
+C:\Elie\SoftUni\Draw-Figures\House\bin\Debug\House.exe
+C:\Elie\SoftUni\Draw-Figures\House\bin\Debug\House.pdb
+C:\Elie\SoftUni\Draw-Figures\House\obj\Debug\House.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\House\obj\Debug\House.exe
+C:\Elie\SoftUni\Draw-Figures\House\obj\Debug\House.pdb

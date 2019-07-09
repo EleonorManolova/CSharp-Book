@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\LoopsEx\Division\bin\Debug\Division.exe.config
+C:\Elie\SoftUni\LoopsEx\Division\bin\Debug\Division.exe
+C:\Elie\SoftUni\LoopsEx\Division\bin\Debug\Division.pdb
+C:\Elie\SoftUni\LoopsEx\Division\obj\Debug\Division.csprojAssemblyReference.cache
+C:\Elie\SoftUni\LoopsEx\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\LoopsEx\Division\obj\Debug\Division.exe
+C:\Elie\SoftUni\LoopsEx\Division\obj\Debug\Division.pdb

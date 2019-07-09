@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\Loop\EvenOddSum\bin\Debug\EvenOddSum.exe.config
+C:\Users\eleon\source\repos\Loop\EvenOddSum\bin\Debug\EvenOddSum.exe
+C:\Users\eleon\source\repos\Loop\EvenOddSum\bin\Debug\EvenOddSum.pdb
+C:\Users\eleon\source\repos\Loop\EvenOddSum\obj\Debug\EvenOddSum.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\Loop\EvenOddSum\obj\Debug\EvenOddSum.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\EvenOddSum\obj\Debug\EvenOddSum.exe
+C:\Users\eleon\source\repos\Loop\EvenOddSum\obj\Debug\EvenOddSum.pdb

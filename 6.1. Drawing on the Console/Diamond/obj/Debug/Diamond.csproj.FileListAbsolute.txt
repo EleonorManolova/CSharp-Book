@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\Diamond\bin\Debug\Diamond.exe.config
+C:\Elie\SoftUni\Draw-Figures\Diamond\bin\Debug\Diamond.exe
+C:\Elie\SoftUni\Draw-Figures\Diamond\bin\Debug\Diamond.pdb
+C:\Elie\SoftUni\Draw-Figures\Diamond\obj\Debug\Diamond.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\Diamond\obj\Debug\Diamond.exe
+C:\Elie\SoftUni\Draw-Figures\Diamond\obj\Debug\Diamond.pdb

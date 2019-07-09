@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\bin\Debug\SleepyCatTom.exe.config
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\bin\Debug\SleepyCatTom.exe
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\bin\Debug\SleepyCatTom.pdb
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\obj\Debug\SleepyCatTom.csprojAssemblyReference.cache
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\obj\Debug\SleepyCatTom.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\obj\Debug\SleepyCatTom.exe
+C:\Elie\SoftUni\SimpleConditions\SleepyCatTom\obj\Debug\SleepyCatTom.pdb

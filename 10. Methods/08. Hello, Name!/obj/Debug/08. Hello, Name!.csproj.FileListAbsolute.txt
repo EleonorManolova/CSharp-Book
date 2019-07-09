@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\bin\Debug\_08.Hello__Name_.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\bin\Debug\_08.Hello__Name_.exe
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\bin\Debug\_08.Hello__Name_.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\obj\Debug\08. Hello, Name!.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\obj\Debug\08. Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\obj\Debug\_08.Hello__Name_.exe
+C:\Elie\SoftUni\C#Book\10. Methods\08. Hello, Name!\obj\Debug\_08.Hello__Name_.pdb

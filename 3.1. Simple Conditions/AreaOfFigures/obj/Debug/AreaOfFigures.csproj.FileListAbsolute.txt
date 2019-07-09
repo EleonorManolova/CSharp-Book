@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\eleon\source\repos\If-Else\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\eleon\source\repos\If-Else\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\eleon\source\repos\If-Else\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\eleon\source\repos\If-Else\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

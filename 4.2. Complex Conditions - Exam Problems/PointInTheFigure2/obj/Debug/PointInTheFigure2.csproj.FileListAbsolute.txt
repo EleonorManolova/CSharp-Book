@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\bin\Debug\PointInTheFigure2.exe.config
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\bin\Debug\PointInTheFigure2.exe
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\bin\Debug\PointInTheFigure2.pdb
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\obj\Debug\PointInTheFigure2.csprojAssemblyReference.cache
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\obj\Debug\PointInTheFigure2.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\obj\Debug\PointInTheFigure2.exe
+C:\Elie\SoftUni\ComplexConditionsEx\PointInTheFigure2\obj\Debug\PointInTheFigure2.pdb

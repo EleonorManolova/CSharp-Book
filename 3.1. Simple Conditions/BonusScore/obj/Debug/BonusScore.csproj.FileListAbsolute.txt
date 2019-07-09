@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\If-Else\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\eleon\source\repos\If-Else\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\eleon\source\repos\If-Else\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\eleon\source\repos\If-Else\BonusScore\obj\Debug\BonusScore.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\If-Else\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\eleon\source\repos\If-Else\BonusScore\obj\Debug\BonusScore.pdb

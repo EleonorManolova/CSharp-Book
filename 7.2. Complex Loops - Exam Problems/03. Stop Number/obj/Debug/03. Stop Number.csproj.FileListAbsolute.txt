@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\03. Stop Number\obj\Debug\03. Stop Number.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\03. Stop Number\bin\Debug\_03.Stop_Number.exe.config
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\03. Stop Number\bin\Debug\_03.Stop_Number.exe
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\03. Stop Number\bin\Debug\_03.Stop_Number.pdb
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\03. Stop Number\obj\Debug\_03.Stop_Number.exe
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\03. Stop Number\obj\Debug\_03.Stop_Number.pdb

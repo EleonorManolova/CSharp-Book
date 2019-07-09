@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\bin\Debug\Powers-of-two.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\bin\Debug\Powers-of-two.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\bin\Debug\Powers-of-two.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\obj\Debug\Powers-of-two.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\obj\Debug\Powers-of-two.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\obj\Debug\Powers-of-two.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\Powers-of-two\obj\Debug\Powers-of-two.pdb

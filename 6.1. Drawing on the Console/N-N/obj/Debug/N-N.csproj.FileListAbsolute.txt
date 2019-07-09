@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\N-N\bin\Debug\N-N.exe.config
+C:\Elie\SoftUni\Draw-Figures\N-N\bin\Debug\N-N.exe
+C:\Elie\SoftUni\Draw-Figures\N-N\bin\Debug\N-N.pdb
+C:\Elie\SoftUni\Draw-Figures\N-N\obj\Debug\N-N.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\N-N\obj\Debug\N-N.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\N-N\obj\Debug\N-N.exe
+C:\Elie\SoftUni\Draw-Figures\N-N\obj\Debug\N-N.pdb

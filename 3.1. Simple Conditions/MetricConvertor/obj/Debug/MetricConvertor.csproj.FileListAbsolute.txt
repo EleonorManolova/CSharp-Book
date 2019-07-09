@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\obj\Debug\MetricConvertor.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\obj\Debug\MetricConvertor.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\bin\Debug\MetricConvertor.exe.config
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\bin\Debug\MetricConvertor.exe
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\bin\Debug\MetricConvertor.pdb
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\obj\Debug\MetricConvertor.exe
+C:\Users\eleon\source\repos\If-Else\MetricConvertor\obj\Debug\MetricConvertor.pdb

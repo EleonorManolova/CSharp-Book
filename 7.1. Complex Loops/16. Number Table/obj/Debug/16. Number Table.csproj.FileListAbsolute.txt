@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\16. Number Table\bin\Debug\_16.Number_Table.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\16. Number Table\bin\Debug\_16.Number_Table.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\16. Number Table\bin\Debug\_16.Number_Table.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\16. Number Table\obj\Debug\16. Number Table.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\16. Number Table\obj\Debug\_16.Number_Table.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\16. Number Table\obj\Debug\_16.Number_Table.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\_10.Rectangle_with_Stars.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\_10.Rectangle_with_Stars.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\_10.Rectangle_with_Stars.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\10. Rectangle with Stars.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\10. Rectangle with Stars.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\_10.Rectangle_with_Stars.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\_10.Rectangle_with_Stars.pdb

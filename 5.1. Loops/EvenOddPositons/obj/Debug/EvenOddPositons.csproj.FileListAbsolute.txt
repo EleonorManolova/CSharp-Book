@@ -1,0 +1,14 @@
+C:\Elie\SoftUni\Loop\EvenOddPositons\bin\Debug\EvenOddPositons.exe.config
+C:\Elie\SoftUni\Loop\EvenOddPositons\bin\Debug\EvenOddPositons.exe
+C:\Elie\SoftUni\Loop\EvenOddPositons\bin\Debug\EvenOddPositons.pdb
+C:\Elie\SoftUni\Loop\EvenOddPositons\obj\Debug\EvenOddPositons.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Loop\EvenOddPositons\obj\Debug\EvenOddPositons.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Loop\EvenOddPositons\obj\Debug\EvenOddPositons.exe
+C:\Elie\SoftUni\Loop\EvenOddPositons\obj\Debug\EvenOddPositons.pdb
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\bin\Debug\EvenOddPositons.exe.config
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\bin\Debug\EvenOddPositons.exe
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\bin\Debug\EvenOddPositons.pdb
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\obj\Debug\EvenOddPositons.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\obj\Debug\EvenOddPositons.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\obj\Debug\EvenOddPositons.exe
+C:\Elie\SoftUni\C#Book\5.1Loop\EvenOddPositons\obj\Debug\EvenOddPositons.pdb

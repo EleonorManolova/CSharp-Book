@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\06. Sums 3 Numbers\bin\Debug\_06.Sums_3_Numbers.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\06. Sums 3 Numbers\bin\Debug\_06.Sums_3_Numbers.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\06. Sums 3 Numbers\bin\Debug\_06.Sums_3_Numbers.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\06. Sums 3 Numbers\obj\Debug\06. Sums 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\06. Sums 3 Numbers\obj\Debug\_06.Sums_3_Numbers.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\06. Sums 3 Numbers\obj\Debug\_06.Sums_3_Numbers.pdb

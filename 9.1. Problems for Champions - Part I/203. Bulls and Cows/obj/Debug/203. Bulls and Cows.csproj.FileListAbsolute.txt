@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\bin\Debug\_203.Bulls_and_Cows.exe.config
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\bin\Debug\_203.Bulls_and_Cows.exe
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\bin\Debug\_203.Bulls_and_Cows.pdb
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\obj\Debug\203. Bulls and Cows.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\obj\Debug\203. Bulls and Cows.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\obj\Debug\_203.Bulls_and_Cows.exe
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\203. Bulls and Cows\obj\Debug\_203.Bulls_and_Cows.pdb

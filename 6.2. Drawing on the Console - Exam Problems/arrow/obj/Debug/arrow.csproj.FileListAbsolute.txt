@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Draw-Figures-Ex\arrow\bin\Debug\arrow.exe.config
+C:\Elie\SoftUni\Draw-Figures-Ex\arrow\bin\Debug\arrow.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\arrow\bin\Debug\arrow.pdb
+C:\Elie\SoftUni\Draw-Figures-Ex\arrow\obj\Debug\arrow.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\arrow\obj\Debug\arrow.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\arrow\obj\Debug\arrow.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.exe.config
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.exe
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.pdb
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\obj\Debug\13. Point in the Figure.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\obj\Debug\13. Point in the Figure.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\obj\Debug\_13.Point_in_the_Figure.exe
+C:\Elie\SoftUni\C#Book\4.1\13. Point in the Figure\obj\Debug\_13.Point_in_the_Figure.pdb

@@ -1,0 +1,5 @@
+C:\Elie\SoftUni\RectVisualaizer\RectVisualaizer\obj\Debug\RectVisualaizer.csprojAssemblyReference.cache
+C:\Elie\SoftUni\RectVisualaizer\RectVisualaizer\obj\Debug\RectVisualaizer.PointInRectangleForm.resources
+C:\Elie\SoftUni\RectVisualaizer\RectVisualaizer\obj\Debug\RectVisualaizer.Properties.Resources.resources
+C:\Elie\SoftUni\RectVisualaizer\RectVisualaizer\obj\Debug\RectVisualaizer.csproj.GenerateResource.cache
+C:\Elie\SoftUni\RectVisualaizer\RectVisualaizer\obj\Debug\RectVisualaizer.csproj.CoreCompileInputs.cache

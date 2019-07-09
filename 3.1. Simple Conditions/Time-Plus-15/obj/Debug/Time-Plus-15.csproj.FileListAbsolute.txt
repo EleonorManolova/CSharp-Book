@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\Time-Plus-15\bin\Debug\Time-Plus-15.exe.config
+C:\Users\eleon\source\repos\If-Else\Time-Plus-15\bin\Debug\Time-Plus-15.exe
+C:\Users\eleon\source\repos\If-Else\Time-Plus-15\bin\Debug\Time-Plus-15.pdb
+C:\Users\eleon\source\repos\If-Else\Time-Plus-15\obj\Debug\Time-Plus-15.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\Time-Plus-15\obj\Debug\Time-Plus-15.exe
+C:\Users\eleon\source\repos\If-Else\Time-Plus-15\obj\Debug\Time-Plus-15.pdb

@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\eleon\source\repos\If-Else\EqualWords\bin\Debug\EqualWords.exe
+C:\Users\eleon\source\repos\If-Else\EqualWords\bin\Debug\EqualWords.pdb
+C:\Users\eleon\source\repos\If-Else\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\eleon\source\repos\If-Else\EqualWords\obj\Debug\EqualWords.pdb

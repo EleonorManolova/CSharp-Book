@@ -1,0 +1,13 @@
+C:\Users\eleon\source\repos\Loop\LatinAlphabet\bin\Debug\LatinAlphabet.exe.config
+C:\Users\eleon\source\repos\Loop\LatinAlphabet\bin\Debug\LatinAlphabet.exe
+C:\Users\eleon\source\repos\Loop\LatinAlphabet\bin\Debug\LatinAlphabet.pdb
+C:\Users\eleon\source\repos\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.exe
+C:\Users\eleon\source\repos\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.pdb
+C:\Elie\SoftUni\Loop\LatinAlphabet\bin\Debug\LatinAlphabet.exe.config
+C:\Elie\SoftUni\Loop\LatinAlphabet\bin\Debug\LatinAlphabet.exe
+C:\Elie\SoftUni\Loop\LatinAlphabet\bin\Debug\LatinAlphabet.pdb
+C:\Elie\SoftUni\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.exe
+C:\Elie\SoftUni\Loop\LatinAlphabet\obj\Debug\LatinAlphabet.pdb

@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\ExellentOrNot\bin\Debug\ExellentOrNot.exe.config
+C:\Users\eleon\source\repos\If-Else\ExellentOrNot\bin\Debug\ExellentOrNot.exe
+C:\Users\eleon\source\repos\If-Else\ExellentOrNot\bin\Debug\ExellentOrNot.pdb
+C:\Users\eleon\source\repos\If-Else\ExellentOrNot\obj\Debug\ExellentOrNot.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\ExellentOrNot\obj\Debug\ExellentOrNot.exe
+C:\Users\eleon\source\repos\If-Else\ExellentOrNot\obj\Debug\ExellentOrNot.pdb

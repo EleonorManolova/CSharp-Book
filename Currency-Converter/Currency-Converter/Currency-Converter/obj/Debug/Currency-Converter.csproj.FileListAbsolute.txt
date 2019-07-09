@@ -1,0 +1,9 @@
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\bin\Debug\Currency-Converter.exe.config
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\bin\Debug\Currency-Converter.exe
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\bin\Debug\Currency-Converter.pdb
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\obj\Debug\Currency-Converter.csproj.GenerateResource.cache
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\obj\Debug\Currency-Converter.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\obj\Debug\Currency-Converter.exe
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\obj\Debug\Currency-Converter.pdb
+C:\Elie\SoftUni\Currency-Converter\Currency-Converter\Currency-Converter\obj\Debug\Currency_Converter.FormConvertor.resources

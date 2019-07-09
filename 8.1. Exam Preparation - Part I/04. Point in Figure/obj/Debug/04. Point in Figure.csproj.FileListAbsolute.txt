@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\_04.Point_in_Figure.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\_04.Point_in_Figure.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\_04.Point_in_Figure.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\04. Point in Figure.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\_04.Point_in_Figure.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\_04.Point_in_Figure.pdb

@@ -1,0 +1,12 @@
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle-Play.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle_Play.Form1.resources
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle_Play.Properties.Resources.resources
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle-Play.csproj.GenerateResource.cache
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle-Play.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\bin\Debug\Turtle-Play.exe.config
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\bin\Debug\Turtle-Play.exe
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\bin\Debug\Turtle-Play.pdb
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle-Play.csproj.CopyComplete
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle-Play.exe
+C:\Elie\SoftUni\Turtle-Play\Turtle-Play\obj\Debug\Turtle-Play.pdb

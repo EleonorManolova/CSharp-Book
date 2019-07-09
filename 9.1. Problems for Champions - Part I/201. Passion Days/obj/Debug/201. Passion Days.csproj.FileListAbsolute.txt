@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\bin\Debug\_201.Passion_Days.exe.config
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\bin\Debug\_201.Passion_Days.exe
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\bin\Debug\_201.Passion_Days.pdb
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\obj\Debug\201. Passion Days.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\obj\Debug\201. Passion Days.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\obj\Debug\_201.Passion_Days.exe
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\201. Passion Days\obj\Debug\_201.Passion_Days.pdb

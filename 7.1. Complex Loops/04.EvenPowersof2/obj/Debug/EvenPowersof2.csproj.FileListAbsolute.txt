@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\bin\Debug\EvenPowersof2.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\bin\Debug\EvenPowersof2.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\bin\Debug\EvenPowersof2.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\obj\Debug\EvenPowersof2.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\obj\Debug\EvenPowersof2.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\obj\Debug\EvenPowersof2.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\EvenPowersof2\obj\Debug\EvenPowersof2.pdb

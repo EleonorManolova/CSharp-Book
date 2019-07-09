@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\10. Methods\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
+C:\Elie\SoftUni\C#Book\10. Methods\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\02. Sign of Integer Number\obj\Debug\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
+C:\Elie\SoftUni\C#Book\10. Methods\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

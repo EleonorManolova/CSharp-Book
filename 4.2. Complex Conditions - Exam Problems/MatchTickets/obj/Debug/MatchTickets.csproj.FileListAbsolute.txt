@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\obj\Debug\MatchTickets.csprojAssemblyReference.cache
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\obj\Debug\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\bin\Debug\MatchTickets.exe.config
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\bin\Debug\MatchTickets.exe
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\bin\Debug\MatchTickets.pdb
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\obj\Debug\MatchTickets.exe
+C:\Elie\SoftUni\ComplexConditionsEx\MatchTickets\obj\Debug\MatchTickets.pdb

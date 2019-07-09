@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\bin\Debug\TicketPrice.exe.config
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\bin\Debug\TicketPrice.exe
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\bin\Debug\TicketPrice.pdb
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\obj\Debug\TicketPrice.csprojAssemblyReference.cache
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\obj\Debug\TicketPrice.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\obj\Debug\TicketPrice.exe
+C:\Elie\SoftUni\SimpleConditions\TicketPrice\obj\Debug\TicketPrice.pdb

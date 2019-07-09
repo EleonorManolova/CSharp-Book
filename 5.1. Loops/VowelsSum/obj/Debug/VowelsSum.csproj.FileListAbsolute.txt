@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\Loop\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\eleon\source\repos\Loop\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\eleon\source\repos\Loop\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\eleon\source\repos\Loop\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\eleon\source\repos\Loop\VowelsSum\obj\Debug\VowelsSum.pdb

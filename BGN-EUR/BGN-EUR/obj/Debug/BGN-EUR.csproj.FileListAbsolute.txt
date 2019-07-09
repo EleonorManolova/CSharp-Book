@@ -1,0 +1,9 @@
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\bin\Debug\BGN-EUR.exe.config
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\bin\Debug\BGN-EUR.exe
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\bin\Debug\BGN-EUR.pdb
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\obj\Debug\BGN_EUR.Properties.Resources.resources
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\obj\Debug\BGN-EUR.csproj.GenerateResource.cache
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\obj\Debug\BGN-EUR.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\obj\Debug\BGN-EUR.exe
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\obj\Debug\BGN-EUR.pdb
+C:\Users\eleon\source\repos\BGN-EUR\BGN-EUR\obj\Debug\BGN_EUR.Convertor.resources

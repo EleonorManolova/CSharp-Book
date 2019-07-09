@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Loop\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Elie\SoftUni\Loop\EqualPairs\bin\Debug\EqualPairs.exe
+C:\Elie\SoftUni\Loop\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\Elie\SoftUni\Loop\EqualPairs\obj\Debug\EqualPairs.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Loop\EqualPairs\obj\Debug\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Loop\EqualPairs\obj\Debug\EqualPairs.exe
+C:\Elie\SoftUni\Loop\EqualPairs\obj\Debug\EqualPairs.pdb

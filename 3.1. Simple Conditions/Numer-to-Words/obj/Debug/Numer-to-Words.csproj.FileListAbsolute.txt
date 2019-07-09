@@ -1,0 +1,21 @@
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\bin\Debug\Numer-to-Words.exe.config
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\bin\Debug\Numer-to-Words.exe
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\bin\Debug\Numer-to-Words.pdb
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.exe
+C:\Users\eleon\source\repos\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.pdb
+C:\Elie\SoftUni\If-Else\Numer-to-Words\bin\Debug\Numer-to-Words.exe.config
+C:\Elie\SoftUni\If-Else\Numer-to-Words\bin\Debug\Numer-to-Words.exe
+C:\Elie\SoftUni\If-Else\Numer-to-Words\bin\Debug\Numer-to-Words.pdb
+C:\Elie\SoftUni\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.csprojAssemblyReference.cache
+C:\Elie\SoftUni\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.exe
+C:\Elie\SoftUni\If-Else\Numer-to-Words\obj\Debug\Numer-to-Words.pdb
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\bin\Debug\Numer-to-Words.exe.config
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\bin\Debug\Numer-to-Words.exe
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\bin\Debug\Numer-to-Words.pdb
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\obj\Debug\Numer-to-Words.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\obj\Debug\Numer-to-Words.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\obj\Debug\Numer-to-Words.exe
+C:\Elie\SoftUni\C#Book\3.1. Simple Conditions\Numer-to-Words\obj\Debug\Numer-to-Words.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Draw-Figures\Triangle-of-Dollars\bin\Debug\Triangle-of-Dollars.exe.config
+C:\Elie\SoftUni\Draw-Figures\Triangle-of-Dollars\bin\Debug\Triangle-of-Dollars.exe
+C:\Elie\SoftUni\Draw-Figures\Triangle-of-Dollars\bin\Debug\Triangle-of-Dollars.pdb
+C:\Elie\SoftUni\Draw-Figures\Triangle-of-Dollars\obj\Debug\Triangle-of-Dollars.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\Triangle-of-Dollars\obj\Debug\Triangle-of-Dollars.exe
+C:\Elie\SoftUni\Draw-Figures\Triangle-of-Dollars\obj\Debug\Triangle-of-Dollars.pdb

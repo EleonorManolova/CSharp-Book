@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\4.1\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+C:\Elie\SoftUni\4.1\PointInRectangle\bin\Debug\PointInRectangle.exe
+C:\Elie\SoftUni\4.1\PointInRectangle\bin\Debug\PointInRectangle.pdb
+C:\Elie\SoftUni\4.1\PointInRectangle\obj\Debug\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\PointInRectangle\obj\Debug\PointInRectangle.exe
+C:\Elie\SoftUni\4.1\PointInRectangle\obj\Debug\PointInRectangle.pdb

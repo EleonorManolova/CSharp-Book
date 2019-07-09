@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\12. Break Sum\bin\Debug\_12.Break_Sum.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\12. Break Sum\bin\Debug\_12.Break_Sum.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\12. Break Sum\bin\Debug\_12.Break_Sum.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\12. Break Sum\obj\Debug\12. Break Sum.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\12. Break Sum\obj\Debug\_12.Break_Sum.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\12. Break Sum\obj\Debug\_12.Break_Sum.pdb

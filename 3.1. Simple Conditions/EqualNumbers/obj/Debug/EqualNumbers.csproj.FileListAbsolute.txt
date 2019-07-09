@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+C:\Users\eleon\source\repos\If-Else\EqualNumbers\bin\Debug\EqualNumbers.exe
+C:\Users\eleon\source\repos\If-Else\EqualNumbers\bin\Debug\EqualNumbers.pdb
+C:\Users\eleon\source\repos\If-Else\EqualNumbers\obj\Debug\EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\EqualNumbers\obj\Debug\EqualNumbers.exe
+C:\Users\eleon\source\repos\If-Else\EqualNumbers\obj\Debug\EqualNumbers.pdb

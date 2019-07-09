@@ -1,0 +1,14 @@
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csprojAssemblyReference.cache
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+C:\Elie\SoftUni\ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+C:\Elie\SoftUni\C#Book\4.2ComplexConditionsEx\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

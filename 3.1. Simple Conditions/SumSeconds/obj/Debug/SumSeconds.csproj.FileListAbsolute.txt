@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\If-Else\SumSeconds\bin\Debug\SumSeconds.exe.config
+C:\Users\eleon\source\repos\If-Else\SumSeconds\bin\Debug\SumSeconds.exe
+C:\Users\eleon\source\repos\If-Else\SumSeconds\bin\Debug\SumSeconds.pdb
+C:\Users\eleon\source\repos\If-Else\SumSeconds\obj\Debug\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\SumSeconds\obj\Debug\SumSeconds.exe
+C:\Users\eleon\source\repos\If-Else\SumSeconds\obj\Debug\SumSeconds.pdb
+C:\Users\eleon\source\repos\If-Else\SumSeconds\obj\Debug\SumSeconds.csprojAssemblyReference.cache

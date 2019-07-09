@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\NumberToText\bin\Debug\NumberToText.exe.config
+C:\Users\eleon\source\repos\If-Else\NumberToText\bin\Debug\NumberToText.exe
+C:\Users\eleon\source\repos\If-Else\NumberToText\bin\Debug\NumberToText.pdb
+C:\Users\eleon\source\repos\If-Else\NumberToText\obj\Debug\NumberToText.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\NumberToText\obj\Debug\NumberToText.exe
+C:\Users\eleon\source\repos\If-Else\NumberToText\obj\Debug\NumberToText.pdb

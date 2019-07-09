@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\bin\Debug\Буттерфлъ.exe.config
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\bin\Debug\Буттерфлъ.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\bin\Debug\Буттерфлъ.pdb
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\obj\Debug\Butterfly.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\obj\Debug\Буттерфлъ.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\Буттерфлъ\obj\Debug\Буттерфлъ.pdb

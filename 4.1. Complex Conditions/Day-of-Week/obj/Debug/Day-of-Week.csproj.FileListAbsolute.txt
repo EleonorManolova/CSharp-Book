@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\4.1\Day-of-Week\bin\Debug\Day-of-Week.exe.config
+C:\Elie\SoftUni\4.1\Day-of-Week\bin\Debug\Day-of-Week.exe
+C:\Elie\SoftUni\4.1\Day-of-Week\bin\Debug\Day-of-Week.pdb
+C:\Elie\SoftUni\4.1\Day-of-Week\obj\Debug\Day-of-Week.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\Day-of-Week\obj\Debug\Day-of-Week.exe
+C:\Elie\SoftUni\4.1\Day-of-Week\obj\Debug\Day-of-Week.pdb

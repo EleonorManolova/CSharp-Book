@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Draw-Figures-Ex\STOP\bin\Debug\STOP.exe.config
+C:\Elie\SoftUni\Draw-Figures-Ex\STOP\bin\Debug\STOP.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\STOP\bin\Debug\STOP.pdb
+C:\Elie\SoftUni\Draw-Figures-Ex\STOP\obj\Debug\STOP.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\STOP\obj\Debug\STOP.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\STOP\obj\Debug\STOP.pdb

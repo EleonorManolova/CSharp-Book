@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\eleon\source\repos\If-Else\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\eleon\source\repos\If-Else\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\eleon\source\repos\If-Else\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\eleon\source\repos\If-Else\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

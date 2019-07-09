@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\bin\Debug\_202.X_Expression.exe.config
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\bin\Debug\_202.X_Expression.exe
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\bin\Debug\_202.X_Expression.pdb
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\obj\Debug\202. X Expression.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\obj\Debug\202. X Expression.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\obj\Debug\_202.X_Expression.exe
+C:\Elie\SoftUni\C#Book\9. Problems for Champions\202. X Expression\obj\Debug\_202.X_Expression.pdb

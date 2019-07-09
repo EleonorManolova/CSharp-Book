@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\bin\Debug\Vegetables-Market.exe.config
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\bin\Debug\Vegetables-Market.exe
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\bin\Debug\Vegetables-Market.pdb
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\obj\Debug\Vegetables-Market.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\obj\Debug\Vegetables-Market.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\obj\Debug\Vegetables-Market.exe
+C:\Users\eleon\source\repos\Vegetables-Market\Vegetables-Market\obj\Debug\Vegetables-Market.pdb

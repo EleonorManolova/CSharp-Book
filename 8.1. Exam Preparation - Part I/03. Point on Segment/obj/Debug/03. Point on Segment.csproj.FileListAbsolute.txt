@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\03. Point on Segment\obj\Debug\03. Point on Segment.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\03. Point on Segment\bin\Debug\_03.Point_on_Segment.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\03. Point on Segment\bin\Debug\_03.Point_on_Segment.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\03. Point on Segment\bin\Debug\_03.Point_on_Segment.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\03. Point on Segment\obj\Debug\_03.Point_on_Segment.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\03. Point on Segment\obj\Debug\_03.Point_on_Segment.pdb

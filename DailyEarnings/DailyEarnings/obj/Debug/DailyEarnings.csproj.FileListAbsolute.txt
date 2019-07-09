@@ -1,0 +1,14 @@
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\bin\Debug\DailyEarnings.exe.config
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\bin\Debug\DailyEarnings.exe
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\bin\Debug\DailyEarnings.pdb
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.exe
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.pdb
+C:\Users\eleon\source\repos\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.csprojAssemblyReference.cache
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\bin\Debug\DailyEarnings.exe.config
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\bin\Debug\DailyEarnings.exe
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\bin\Debug\DailyEarnings.pdb
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.csprojAssemblyReference.cache
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.exe
+C:\Elie\SoftUni\DailyEarnings\DailyEarnings\obj\Debug\DailyEarnings.pdb

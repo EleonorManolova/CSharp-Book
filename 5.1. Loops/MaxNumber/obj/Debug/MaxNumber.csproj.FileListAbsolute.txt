@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\Loop\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\eleon\source\repos\Loop\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\eleon\source\repos\Loop\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\eleon\source\repos\Loop\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\eleon\source\repos\Loop\MaxNumber\obj\Debug\MaxNumber.pdb

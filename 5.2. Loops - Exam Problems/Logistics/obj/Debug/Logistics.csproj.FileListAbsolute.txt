@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\LoopsEx\Logistics\obj\Debug\Logistics.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\LoopsEx\Logistics\bin\Debug\Logistics.exe.config
+C:\Elie\SoftUni\LoopsEx\Logistics\bin\Debug\Logistics.exe
+C:\Elie\SoftUni\LoopsEx\Logistics\bin\Debug\Logistics.pdb
+C:\Elie\SoftUni\LoopsEx\Logistics\obj\Debug\Logistics.exe
+C:\Elie\SoftUni\LoopsEx\Logistics\obj\Debug\Logistics.pdb

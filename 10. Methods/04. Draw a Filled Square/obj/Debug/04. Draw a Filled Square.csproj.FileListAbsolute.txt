@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+C:\Elie\SoftUni\C#Book\10. Methods\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

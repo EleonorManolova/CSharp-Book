@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\obj\Debug\10. Check Prime.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\obj\Debug\10. Check Prime.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

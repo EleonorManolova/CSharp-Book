@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\LoopsEx\Histogram\bin\Debug\Histogram.exe.config
+C:\Elie\SoftUni\LoopsEx\Histogram\bin\Debug\Histogram.exe
+C:\Elie\SoftUni\LoopsEx\Histogram\bin\Debug\Histogram.pdb
+C:\Elie\SoftUni\LoopsEx\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Elie\SoftUni\LoopsEx\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\LoopsEx\Histogram\obj\Debug\Histogram.exe
+C:\Elie\SoftUni\LoopsEx\Histogram\obj\Debug\Histogram.pdb

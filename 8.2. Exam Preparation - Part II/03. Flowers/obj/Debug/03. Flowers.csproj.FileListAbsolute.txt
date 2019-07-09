@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\bin\Debug\_03.Flowers.exe.config
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\bin\Debug\_03.Flowers.exe
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\bin\Debug\_03.Flowers.pdb
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\obj\Debug\03. Flowers.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\obj\Debug\03. Flowers.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\obj\Debug\_03.Flowers.exe
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\03. Flowers\obj\Debug\_03.Flowers.pdb

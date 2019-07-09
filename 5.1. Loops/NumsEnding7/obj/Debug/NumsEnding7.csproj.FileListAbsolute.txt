@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\Loop\NumsEnding7\bin\Debug\NumsEnding7.exe.config
+C:\Users\eleon\source\repos\Loop\NumsEnding7\bin\Debug\NumsEnding7.exe
+C:\Users\eleon\source\repos\Loop\NumsEnding7\bin\Debug\NumsEnding7.pdb
+C:\Users\eleon\source\repos\Loop\NumsEnding7\obj\Debug\NumsEnding7.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\Loop\NumsEnding7\obj\Debug\NumsEnding7.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\NumsEnding7\obj\Debug\NumsEnding7.exe
+C:\Users\eleon\source\repos\Loop\NumsEnding7\obj\Debug\NumsEnding7.pdb

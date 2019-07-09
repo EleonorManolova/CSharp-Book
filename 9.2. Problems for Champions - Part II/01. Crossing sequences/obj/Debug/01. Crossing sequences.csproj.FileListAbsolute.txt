@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\bin\Debug\_01.Crossing_sequences.exe.config
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\bin\Debug\_01.Crossing_sequences.exe
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\bin\Debug\_01.Crossing_sequences.pdb
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\obj\Debug\01. Crossing sequences.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\obj\Debug\01. Crossing sequences.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\obj\Debug\_01.Crossing_sequences.exe
+C:\Elie\SoftUni\C#Book\9.0Problems for Champions\01. Crossing sequences\obj\Debug\_01.Crossing_sequences.pdb

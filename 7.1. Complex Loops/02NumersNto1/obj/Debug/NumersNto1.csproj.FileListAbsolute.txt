@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\7.1Complex-Loops\NumersNto1\bin\Debug\NumersNto1.exe.config
+C:\Users\eleon\source\repos\7.1Complex-Loops\NumersNto1\bin\Debug\NumersNto1.exe
+C:\Users\eleon\source\repos\7.1Complex-Loops\NumersNto1\bin\Debug\NumersNto1.pdb
+C:\Users\eleon\source\repos\7.1Complex-Loops\NumersNto1\obj\Debug\NumersNto1.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\7.1Complex-Loops\NumersNto1\obj\Debug\NumersNto1.exe
+C:\Users\eleon\source\repos\7.1Complex-Loops\NumersNto1\obj\Debug\NumersNto1.pdb

@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\bin\Debug\7.1Complex-Loops.exe.config
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\bin\Debug\7.1Complex-Loops.exe
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\bin\Debug\7.1Complex-Loops.pdb
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\obj\Debug\Number-1-with-step-3.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\obj\Debug\Number-1-with-step-3.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\obj\Debug\7.1Complex-Loops.exe
+C:\Users\eleon\source\repos\7.1Complex-Loops\7.1Complex-Loops\obj\Debug\7.1Complex-Loops.pdb

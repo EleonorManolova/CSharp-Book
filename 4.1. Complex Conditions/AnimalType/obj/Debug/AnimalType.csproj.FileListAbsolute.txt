@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\4.1\AnimalType\bin\Debug\AnimalType.exe.config
+C:\Elie\SoftUni\4.1\AnimalType\bin\Debug\AnimalType.exe
+C:\Elie\SoftUni\4.1\AnimalType\bin\Debug\AnimalType.pdb
+C:\Elie\SoftUni\4.1\AnimalType\obj\Debug\AnimalType.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\AnimalType\obj\Debug\AnimalType.exe
+C:\Elie\SoftUni\4.1\AnimalType\obj\Debug\AnimalType.pdb

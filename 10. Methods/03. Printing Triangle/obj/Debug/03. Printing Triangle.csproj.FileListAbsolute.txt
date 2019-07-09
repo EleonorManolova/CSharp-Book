@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\10. Methods\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Elie\SoftUni\C#Book\10. Methods\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\03. Printing Triangle\obj\Debug\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Elie\SoftUni\C#Book\10. Methods\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

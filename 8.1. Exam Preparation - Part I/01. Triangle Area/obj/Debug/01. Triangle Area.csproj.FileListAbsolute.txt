@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\01. Triangle Area.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\01. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\_01.Triangle_Area.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\_01.Triangle_Area.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\_01.Triangle_Area.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\LoopsEx\Hospital\bin\Debug\Hospital.exe.config
+C:\Elie\SoftUni\LoopsEx\Hospital\bin\Debug\Hospital.exe
+C:\Elie\SoftUni\LoopsEx\Hospital\bin\Debug\Hospital.pdb
+C:\Elie\SoftUni\LoopsEx\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Elie\SoftUni\LoopsEx\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\LoopsEx\Hospital\obj\Debug\Hospital.exe
+C:\Elie\SoftUni\LoopsEx\Hospital\obj\Debug\Hospital.pdb

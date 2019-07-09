@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\bin\Debug\_11.Increasing_4_Numbers.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\bin\Debug\_11.Increasing_4_Numbers.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\bin\Debug\_11.Increasing_4_Numbers.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\obj\Debug\11. Increasing 4 Numbers.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\obj\Debug\11. Increasing 4 Numbers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\obj\Debug\_11.Increasing_4_Numbers.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\11. Increasing 4 Numbers\obj\Debug\_11.Increasing_4_Numbers.pdb

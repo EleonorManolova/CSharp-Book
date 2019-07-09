@@ -1,0 +1,12 @@
+C:\Elie\SoftUni\4.1\TradeCommisions\bin\Debug\TradeCommisions.exe.config
+C:\Elie\SoftUni\4.1\TradeCommisions\bin\Debug\TradeCommisions.exe
+C:\Elie\SoftUni\4.1\TradeCommisions\bin\Debug\TradeCommisions.pdb
+C:\Elie\SoftUni\4.1\TradeCommisions\obj\Debug\TradeCommisions.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\TradeCommisions\obj\Debug\TradeCommisions.exe
+C:\Elie\SoftUni\4.1\TradeCommisions\obj\Debug\TradeCommisions.pdb
+C:\Elie\SoftUni\C#Book\4.1\TradeCommisions\bin\Debug\TradeCommisions.exe.config
+C:\Elie\SoftUni\C#Book\4.1\TradeCommisions\bin\Debug\TradeCommisions.exe
+C:\Elie\SoftUni\C#Book\4.1\TradeCommisions\bin\Debug\TradeCommisions.pdb
+C:\Elie\SoftUni\C#Book\4.1\TradeCommisions\obj\Debug\TradeCommisions.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\4.1\TradeCommisions\obj\Debug\TradeCommisions.exe
+C:\Elie\SoftUni\C#Book\4.1\TradeCommisions\obj\Debug\TradeCommisions.pdb

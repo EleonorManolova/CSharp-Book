@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\04. Special Numbers\bin\Debug\_04.Special_Numbers.exe.config
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\04. Special Numbers\bin\Debug\_04.Special_Numbers.exe
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\04. Special Numbers\bin\Debug\_04.Special_Numbers.pdb
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\04. Special Numbers\obj\Debug\04. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\04. Special Numbers\obj\Debug\_04.Special_Numbers.exe
+C:\Elie\SoftUni\C#Book\7.2. Complex Loops - Exam Problems\04. Special Numbers\obj\Debug\_04.Special_Numbers.pdb

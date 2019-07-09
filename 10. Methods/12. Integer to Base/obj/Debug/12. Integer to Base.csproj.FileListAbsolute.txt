@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\bin\Debug\_12.Integer_to_Base.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\bin\Debug\_12.Integer_to_Base.exe
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\bin\Debug\_12.Integer_to_Base.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\obj\Debug\12. Integer to Base.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\obj\Debug\12. Integer to Base.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\obj\Debug\_12.Integer_to_Base.exe
+C:\Elie\SoftUni\C#Book\10. Methods\12. Integer to Base\obj\Debug\_12.Integer_to_Base.pdb

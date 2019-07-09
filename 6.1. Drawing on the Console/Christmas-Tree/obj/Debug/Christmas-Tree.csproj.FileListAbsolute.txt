@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\bin\Debug\Christmas-Tree.exe.config
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\bin\Debug\Christmas-Tree.exe
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\bin\Debug\Christmas-Tree.pdb
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\obj\Debug\Christmas-Tree.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\obj\Debug\Christmas-Tree.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\obj\Debug\Christmas-Tree.exe
+C:\Elie\SoftUni\Draw-Figures\Christmas-Tree\obj\Debug\Christmas-Tree.pdb

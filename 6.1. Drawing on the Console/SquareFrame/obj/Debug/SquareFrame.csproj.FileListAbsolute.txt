@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\obj\Debug\SquareFrame.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\obj\Debug\SquareFrame.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\bin\Debug\SquareFrame.exe.config
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\bin\Debug\SquareFrame.exe
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\bin\Debug\SquareFrame.pdb
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\obj\Debug\SquareFrame.exe
+C:\Elie\SoftUni\Draw-Figures\SquareFrame\obj\Debug\SquareFrame.pdb

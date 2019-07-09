@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\4.1\Border\bin\Debug\Border.exe.config
+C:\Elie\SoftUni\4.1\Border\bin\Debug\Border.exe
+C:\Elie\SoftUni\4.1\Border\bin\Debug\Border.pdb
+C:\Elie\SoftUni\4.1\Border\obj\Debug\Border.csprojAssemblyReference.cache
+C:\Elie\SoftUni\4.1\Border\obj\Debug\Border.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\Border\obj\Debug\Border.exe
+C:\Elie\SoftUni\4.1\Border\obj\Debug\Border.pdb

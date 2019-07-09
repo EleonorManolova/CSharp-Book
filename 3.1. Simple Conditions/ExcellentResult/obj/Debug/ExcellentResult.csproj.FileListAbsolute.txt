@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+C:\Users\eleon\source\repos\If-Else\ExcellentResult\bin\Debug\ExcellentResult.exe
+C:\Users\eleon\source\repos\If-Else\ExcellentResult\bin\Debug\ExcellentResult.pdb
+C:\Users\eleon\source\repos\If-Else\ExcellentResult\obj\Debug\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\ExcellentResult\obj\Debug\ExcellentResult.exe
+C:\Users\eleon\source\repos\If-Else\ExcellentResult\obj\Debug\ExcellentResult.pdb

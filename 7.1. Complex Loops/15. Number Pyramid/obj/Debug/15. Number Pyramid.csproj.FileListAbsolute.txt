@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\15. Number Pyramid\bin\Debug\_15.Number_Pyramid.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\15. Number Pyramid\bin\Debug\_15.Number_Pyramid.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\15. Number Pyramid\bin\Debug\_15.Number_Pyramid.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\15. Number Pyramid\obj\Debug\15. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\15. Number Pyramid\obj\Debug\_15.Number_Pyramid.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\15. Number Pyramid\obj\Debug\_15.Number_Pyramid.pdb

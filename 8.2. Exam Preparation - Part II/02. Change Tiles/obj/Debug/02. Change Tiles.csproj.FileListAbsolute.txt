@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe.config
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\bin\Debug\_02.Change_Tiles.pdb
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\obj\Debug\02. Change Tiles.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\obj\Debug\02. Change Tiles.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\obj\Debug\_02.Change_Tiles.exe
+C:\Users\eleon\source\repos\8.2. Exam Preparation - Part II\02. Change Tiles\obj\Debug\_02.Change_Tiles.pdb

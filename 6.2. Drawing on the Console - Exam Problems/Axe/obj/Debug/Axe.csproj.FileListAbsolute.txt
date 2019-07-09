@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\bin\Debug\Axe.exe.config
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\bin\Debug\Axe.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\bin\Debug\Axe.pdb
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\obj\Debug\Axe.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\obj\Debug\Axe.exe
+C:\Elie\SoftUni\Draw-Figures-Ex\Axe\obj\Debug\Axe.pdb

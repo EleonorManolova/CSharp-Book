@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\_05.Date_after_5_Days.exe.config
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\_05.Date_after_5_Days.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\_05.Date_after_5_Days.pdb
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\05. Date after 5 Days.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\_05.Date_after_5_Days.exe
+C:\Elie\SoftUni\C#Book\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\_05.Date_after_5_Days.pdb

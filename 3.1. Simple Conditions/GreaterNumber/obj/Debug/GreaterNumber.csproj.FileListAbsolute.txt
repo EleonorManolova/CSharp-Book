@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\eleon\source\repos\If-Else\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\eleon\source\repos\If-Else\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\eleon\source\repos\If-Else\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\eleon\source\repos\If-Else\GreaterNumber\obj\Debug\GreaterNumber.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\4.1\FruitOrVegatable\bin\Debug\FruitOrVegatable.exe.config
+C:\Elie\SoftUni\4.1\FruitOrVegatable\bin\Debug\FruitOrVegatable.exe
+C:\Elie\SoftUni\4.1\FruitOrVegatable\bin\Debug\FruitOrVegatable.pdb
+C:\Elie\SoftUni\4.1\FruitOrVegatable\obj\Debug\FruitOrVegatable.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\4.1\FruitOrVegatable\obj\Debug\FruitOrVegatable.exe
+C:\Elie\SoftUni\4.1\FruitOrVegatable\obj\Debug\FruitOrVegatable.pdb

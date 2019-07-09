@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\bin\Debug\_09.Min_Method.exe.config
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\bin\Debug\_09.Min_Method.exe
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\bin\Debug\_09.Min_Method.pdb
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\obj\Debug\09. Min Method.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\obj\Debug\09. Min Method.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\obj\Debug\_09.Min_Method.exe
+C:\Elie\SoftUni\C#Book\10. Methods\09. Min Method\obj\Debug\_09.Min_Method.pdb

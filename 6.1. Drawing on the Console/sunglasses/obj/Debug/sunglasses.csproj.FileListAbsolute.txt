@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Draw-Figures\sunglasses\bin\Debug\sunglasses.exe.config
+C:\Elie\SoftUni\Draw-Figures\sunglasses\bin\Debug\sunglasses.exe
+C:\Elie\SoftUni\Draw-Figures\sunglasses\bin\Debug\sunglasses.pdb
+C:\Elie\SoftUni\Draw-Figures\sunglasses\obj\Debug\sunglasses.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Draw-Figures\sunglasses\obj\Debug\sunglasses.exe
+C:\Elie\SoftUni\Draw-Figures\sunglasses\obj\Debug\sunglasses.pdb
+C:\Elie\SoftUni\Draw-Figures\sunglasses\obj\Debug\sunglasses.csprojAssemblyReference.cache

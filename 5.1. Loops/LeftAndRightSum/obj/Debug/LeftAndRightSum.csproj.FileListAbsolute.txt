@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\eleon\source\repos\Loop\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

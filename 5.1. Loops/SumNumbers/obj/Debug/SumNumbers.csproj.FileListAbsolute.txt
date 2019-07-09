@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\Loop\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\eleon\source\repos\Loop\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\eleon\source\repos\Loop\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\eleon\source\repos\Loop\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Loop\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\eleon\source\repos\Loop\SumNumbers\obj\Debug\SumNumbers.pdb

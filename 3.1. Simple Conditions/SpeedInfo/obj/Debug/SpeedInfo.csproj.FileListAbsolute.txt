@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\If-Else\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+C:\Users\eleon\source\repos\If-Else\SpeedInfo\bin\Debug\SpeedInfo.exe
+C:\Users\eleon\source\repos\If-Else\SpeedInfo\bin\Debug\SpeedInfo.pdb
+C:\Users\eleon\source\repos\If-Else\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\If-Else\SpeedInfo\obj\Debug\SpeedInfo.exe
+C:\Users\eleon\source\repos\If-Else\SpeedInfo\obj\Debug\SpeedInfo.pdb

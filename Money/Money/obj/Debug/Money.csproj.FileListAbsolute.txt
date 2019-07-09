@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\Money\Money\bin\Debug\Money.exe.config
+C:\Users\eleon\source\repos\Money\Money\bin\Debug\Money.exe
+C:\Users\eleon\source\repos\Money\Money\bin\Debug\Money.pdb
+C:\Users\eleon\source\repos\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Money\Money\obj\Debug\Money.exe
+C:\Users\eleon\source\repos\Money\Money\obj\Debug\Money.pdb

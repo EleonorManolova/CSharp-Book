@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\SimpleConditions\Harvest\bin\Debug\Harvest.exe.config
+C:\Elie\SoftUni\SimpleConditions\Harvest\bin\Debug\Harvest.exe
+C:\Elie\SoftUni\SimpleConditions\Harvest\bin\Debug\Harvest.pdb
+C:\Elie\SoftUni\SimpleConditions\Harvest\obj\Debug\Harvest.csprojAssemblyReference.cache
+C:\Elie\SoftUni\SimpleConditions\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\SimpleConditions\Harvest\obj\Debug\Harvest.exe
+C:\Elie\SoftUni\SimpleConditions\Harvest\obj\Debug\Harvest.pdb

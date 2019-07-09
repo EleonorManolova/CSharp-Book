@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\05. Sequence 2k+1\obj\Debug\05. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

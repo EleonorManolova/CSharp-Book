@@ -1,0 +1,14 @@
+C:\Elie\SoftUni\LoopsEx\BackToThePast\bin\Debug\BackToThePast.exe.config
+C:\Elie\SoftUni\LoopsEx\BackToThePast\bin\Debug\BackToThePast.exe
+C:\Elie\SoftUni\LoopsEx\BackToThePast\bin\Debug\BackToThePast.pdb
+C:\Elie\SoftUni\LoopsEx\BackToThePast\obj\Debug\BackToThePast.csprojAssemblyReference.cache
+C:\Elie\SoftUni\LoopsEx\BackToThePast\obj\Debug\BackToThePast.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\LoopsEx\BackToThePast\obj\Debug\BackToThePast.exe
+C:\Elie\SoftUni\LoopsEx\BackToThePast\obj\Debug\BackToThePast.pdb
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\bin\Debug\BackToThePast.exe.config
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\bin\Debug\BackToThePast.exe
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\bin\Debug\BackToThePast.pdb
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\obj\Debug\BackToThePast.csprojAssemblyReference.cache
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\obj\Debug\BackToThePast.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\obj\Debug\BackToThePast.exe
+C:\Elie\SoftUni\C#Book\5.2LoopsEx\BackToThePast\obj\Debug\BackToThePast.pdb

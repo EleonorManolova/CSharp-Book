@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\StudyRoom\StudyRoom2\bin\Debug\StudyRoom2.exe.config
+C:\Users\eleon\source\repos\StudyRoom\StudyRoom2\bin\Debug\StudyRoom2.exe
+C:\Users\eleon\source\repos\StudyRoom\StudyRoom2\bin\Debug\StudyRoom2.pdb
+C:\Users\eleon\source\repos\StudyRoom\StudyRoom2\obj\Debug\StudyRoom2.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\StudyRoom\StudyRoom2\obj\Debug\StudyRoom2.exe
+C:\Users\eleon\source\repos\StudyRoom\StudyRoom2\obj\Debug\StudyRoom2.pdb

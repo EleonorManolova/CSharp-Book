@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\13. Enter Even Number (with Text Input)\bin\Debug\_13.Enter_Even_Number__with_Text_Input_.exe.config
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\13. Enter Even Number (with Text Input)\bin\Debug\_13.Enter_Even_Number__with_Text_Input_.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\13. Enter Even Number (with Text Input)\bin\Debug\_13.Enter_Even_Number__with_Text_Input_.pdb
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\13. Enter Even Number (with Text Input)\obj\Debug\13. Enter Even Number (with Text Input).csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\13. Enter Even Number (with Text Input)\obj\Debug\_13.Enter_Even_Number__with_Text_Input_.exe
+C:\Elie\SoftUni\C#Book\7.1Complex-Loops\13. Enter Even Number (with Text Input)\obj\Debug\_13.Enter_Even_Number__with_Text_Input_.pdb
