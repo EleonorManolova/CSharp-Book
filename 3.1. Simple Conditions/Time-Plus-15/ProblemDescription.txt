@@ -1,0 +1,21 @@
+14. Time + 15 Minutes 
+
+Write a program that inputs hours and minutes of a 24-hour day and calculates what will be the time after 15 minutes. 
+Print the result in hh:mm format. Hours are always between 0 and 23, and minutes are always between 0 and 59. 
+Hours are written with one or two digits. Minutes are always written with two digits and zero at the front when needed.
+
+Input	  Output
+1
+46	    2:01
+
+0
+01	    0:16
+
+23
+59	    0:14
+
+11
+08	    11:23
+
+12
+49	    13:04
