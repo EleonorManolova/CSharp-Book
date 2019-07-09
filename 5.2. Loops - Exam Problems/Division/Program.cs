@@ -1,21 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Division
+﻿namespace Division
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            int n = int.Parse(Console.ReadLine());
+            int lines = int.Parse(Console.ReadLine());
             double p1 = 0.0;
             double p2 = 0.0;
             double p3 = 0.0;
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < lines; i++)
             {
                 int num = int.Parse(Console.ReadLine());
 
@@ -26,9 +22,10 @@ namespace Division
                 if (num % 4 == 0)
                     p3++;
             }
-            Console.WriteLine("{0:0.00}%", (p1 / n * 100.0));
-            Console.WriteLine("{0:0.00}%", p2 / n * 100.0);
-            Console.WriteLine("{0:0.00}%", p3 / n * 100.0);
+
+            Console.WriteLine("{0:0.00}%", (p1 / lines * 100.0));
+            Console.WriteLine("{0:0.00}%", p2 / lines * 100.0);
+            Console.WriteLine("{0:0.00}%", p3 / lines * 100.0);
         }
     }
 }

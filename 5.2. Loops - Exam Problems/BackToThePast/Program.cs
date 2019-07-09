@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BackToThePast
+﻿namespace BackToThePast
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             decimal heirMoney = decimal.Parse(Console.ReadLine());
             int year = int.Parse(Console.ReadLine());
@@ -25,8 +21,9 @@ namespace BackToThePast
                     heirMoney -= (12000m + 50 * age);
                 age++;
             }
-            Console.WriteLine(heirMoney >= currMoney ? 
-                $"Yes! He will live a carefree life and will have {heirMoney:0.00} dollars left." 
+
+            Console.WriteLine(heirMoney >= currMoney ?
+                $"Yes! He will live a carefree life and will have {heirMoney:0.00} dollars left."
                 : $"He will need {Math.Abs(heirMoney):0.00} dollars to survive.");
         }
     }

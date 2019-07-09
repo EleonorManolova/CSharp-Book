@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Hospital
+﻿namespace Hospital
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int Alldays = int.Parse(Console.ReadLine());
             int Checked = 0;
@@ -23,6 +19,7 @@ namespace Hospital
                 {
                     doctor++;
                 }
+
                 if (patients > doctor)
                 {
                     Checked += doctor;
@@ -32,6 +29,7 @@ namespace Hospital
                     Checked += patients;
 
             }
+
             Console.WriteLine("Treated patients: {0}.", Checked);
             Console.WriteLine("Untreated patients: {0}.", Unchecked);
         }

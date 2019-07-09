@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SmartLily
+﻿namespace SmartLily
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int age = int.Parse(Console.ReadLine());
             double washingPrice = double.Parse(Console.ReadLine());
@@ -18,9 +14,9 @@ namespace SmartLily
             double sumOdd = 0.00;
             double sumOdd2 = 0.00;
             int moneyForBirthday = 10;
+
             for (int i = 1; i <= age; i++)
             {
-
                 if (i % 2 == 0)
                 {
                     sumEven += moneyForBirthday;
@@ -32,9 +28,10 @@ namespace SmartLily
                     sumOdd += 1;
                 }
             }
+
             sumOdd2 = sumOdd * toyPrice;
-            
-            Console.WriteLine((sumOdd2 + sumEven) >= washingPrice ? 
+
+            Console.WriteLine((sumOdd2 + sumEven) >= washingPrice ?
                 $"Yes! {(sumEven + sumOdd2 - washingPrice):0.00}"
                 : $"No! {(washingPrice - sumOdd2 - sumEven):0.00}");
         }

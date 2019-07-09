@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Histogram
+﻿namespace Histogram
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
             double p1 = 0;
             double p2 = 0;
             double p3 = 0;
             double p4 = 0;
             double p5 = 0;
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < lines; i++)
             {
                 int num = int.Parse(Console.ReadLine());
                 if (num < 200)
@@ -32,11 +28,12 @@ namespace Histogram
                     p5 += 1;
 
             }
-            Console.WriteLine("{0:0.00}%", p1 / n * 100);
-            Console.WriteLine("{0:0.00}%", p2 / n * 100);
-            Console.WriteLine("{0:0.00}%", p3 / n * 100);
-            Console.WriteLine("{0:0.00}%", p4 / n * 100);
-            Console.WriteLine("{0:0.00}%", p5 / n * 100);
-        }   
+
+            Console.WriteLine("{0:0.00}%", p1 / lines * 100);
+            Console.WriteLine("{0:0.00}%", p2 / lines * 100);
+            Console.WriteLine("{0:0.00}%", p3 / lines * 100);
+            Console.WriteLine("{0:0.00}%", p4 / lines * 100);
+            Console.WriteLine("{0:0.00}%", p5 / lines * 100);
+        }
     }
 }
