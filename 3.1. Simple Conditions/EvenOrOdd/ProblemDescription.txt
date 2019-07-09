@@ -1,0 +1,9 @@
+03. Even or Odd 
+
+Write a program that checks whether an integer is even or odd.
+
+Input	  Output
+2	      even
+3	      odd
+25	    odd
+1024	  even

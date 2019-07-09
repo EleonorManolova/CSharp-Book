@@ -1,0 +1,9 @@
+09. Password Guess 
+
+Write a program that inputs a password (one line with random text) and checks if the input matches the phrase "s3cr3t!P@ssw0rd". 
+If it matches, print "Welcome", otherwise "Wrong password!".
+
+Input	            Output
+qwerty	          Wrong password!
+s3cr3t!P@ssw0rd	  Welcome
+s3cr3t!p@ss	      Wrong password!

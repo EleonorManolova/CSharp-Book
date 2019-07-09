@@ -1,0 +1,8 @@
+16. Number 0...100 to Text 
+
+Write a program that converts a number in the range of [0 ... 100] into text.
+
+Input	  Output
+25	    twenty five
+42	    forty two
+6	      six

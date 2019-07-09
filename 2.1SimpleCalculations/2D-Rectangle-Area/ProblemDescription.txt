@@ -1,0 +1,32 @@
+07. 2D Rectangle Area 
+
+A rectangle is defined by the coordinates of both of its opposite corners (x1, y1) – (x2, y2).
+Calculate its area and perimeter.
+The input is read from the console. The numbers x1, y1, x2 and y2 are given one per line.
+The output is printed on the console and it has to contain two lines, each with one number – the area and the perimeter.
+
+Input60
+20
+10
+50	
+Output
+1500
+160
+
+Input
+30
+40
+70
+-10	
+Output
+2000
+180
+
+Input
+600.25
+500.75
+100.50
+-200.5
+Output
+350449.6875
+2402
