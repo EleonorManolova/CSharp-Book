@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Bricks
+﻿namespace _02.Bricks
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var brick = double.Parse(Console.ReadLine());
             var worker = double.Parse(Console.ReadLine());

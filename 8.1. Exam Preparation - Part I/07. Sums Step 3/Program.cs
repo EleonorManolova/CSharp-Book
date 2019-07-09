@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07.Sums_Step_3
+﻿namespace _07.Sums_Step_3
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var n = int.Parse(Console.ReadLine());
             var sum1 = 0;
@@ -25,6 +21,7 @@ namespace _07.Sums_Step_3
                 if (i % 3 == 0)
                     sum3 += num;
             }
+
             Console.WriteLine("sum1 = " + sum1);
             Console.WriteLine("sum2 = " + sum2);
             Console.WriteLine("sum3 = " + sum3);

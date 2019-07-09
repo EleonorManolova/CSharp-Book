@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _09.Perfect_Diamond
+﻿namespace _09.Perfect_Diamond
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var n = int.Parse(Console.ReadLine());
 
@@ -18,27 +14,29 @@ namespace _09.Perfect_Diamond
                 {
                     Console.Write(" ");
                 }
+
                 Console.Write("*");
                 for (int j = 0; j < row - 1; j++)
                 {
                     Console.Write("-*");
-
                 }
+
                 Console.WriteLine();
             }
-            for (int row = 1; row <= n-1; row++)
-            {
 
+            for (int row = 1; row <= n - 1; row++)
+            {
                 for (int k = n - row; k < n; k++)
                 {
                     Console.Write(" ");
                 }
+
                 Console.Write("*");
-                for (int j = row+1 ; j < n; j++)
+                for (int j = row + 1; j < n; j++)
                 {
                     Console.Write("-*");
-
                 }
+
                 Console.WriteLine();
             }
         }

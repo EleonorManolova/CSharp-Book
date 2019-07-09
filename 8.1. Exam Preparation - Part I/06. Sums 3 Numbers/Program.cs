@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _06.Sums_3_Numbers
+﻿namespace _06.Sums_3_Numbers
 {
-    class Program
+using System;
+
+   public class Program
     {
-        static void Main(string[] args)
+       public static void Main()
         {
             var n1 = int.Parse(Console.ReadLine());
             var n2 = int.Parse(Console.ReadLine());

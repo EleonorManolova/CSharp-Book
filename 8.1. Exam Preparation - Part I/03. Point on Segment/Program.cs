@@ -1,20 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Point_on_Segment
+﻿namespace _03.Point_on_Segment
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var n1 = int.Parse(Console.ReadLine());
             var n2 = int.Parse(Console.ReadLine());
             var n = int.Parse(Console.ReadLine());
 
-            var left = Math.Min(n1,n2);
+            var left = Math.Min(n1, n2);
             var right = Math.Max(n1, n2);
 
             var leftDist = Math.Abs(n - left);
@@ -27,7 +23,8 @@ namespace _03.Point_on_Segment
             {
                 Console.WriteLine("out");
             }
-            Console.WriteLine(Math.Min(leftDist,rightDist) );
+
+            Console.WriteLine(Math.Min(leftDist, rightDist));
         }
     }
 }
