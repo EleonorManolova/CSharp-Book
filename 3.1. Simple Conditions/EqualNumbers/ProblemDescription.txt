@@ -1,0 +1,16 @@
+15. 3 Equal Numbers 
+
+Write a program that inputs 3 numbers and prints whether they are the same (yes / no).
+
+Input	Output
+5
+5
+5	    yes
+
+5
+4
+5   	no
+
+1
+2
+3	    no
