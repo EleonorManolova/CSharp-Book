@@ -1,24 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Square_of_Stars
+﻿namespace Square_of_Stars
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var n = int.Parse(Console.ReadLine());
+    using System;
 
-            for (int row = 0; row < n; row++)
+    public class Program
+    {
+        public static void Main()
+        {
+            var lines = int.Parse(Console.ReadLine());
+
+            for (int row = 0; row < lines; row++)
             {
                 Console.Write("*");
-                for (int col = 0; col < n-1; col++)
+                for (int col = 0; col < lines - 1; col++)
                 {
                     Console.Write(" *");
                 }
+
                 Console.WriteLine();
             }
         }

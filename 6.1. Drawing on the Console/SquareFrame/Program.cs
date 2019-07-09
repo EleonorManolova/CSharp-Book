@@ -1,35 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SquareFrame
+﻿namespace SquareFrame
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var n = int.Parse(Console.ReadLine());
+    using System;
 
-            for (int row = 0; row < n; row++)
+    public class Program
+    {
+        public static void Main()
+        {
+            var lines = int.Parse(Console.ReadLine());
+
+            for (int row = 0; row < lines; row++)
             {
-                if (row == 0 || row == n - 1)
-                    Console.Write("+");
-                else
-                    Console.Write("|");
-                for (int col = 0; col < n-2; col++)
+                if (row == 0 || row == lines - 1)
                 {
-                        Console.Write(" -");
+                    Console.Write("+");
                 }
-                if (n > 1)
+                else
+                {
+                    Console.Write("|");
+                }
+
+                for (int col = 0; col < lines - 2; col++)
+                {
+                    Console.Write(" -");
+                }
+
+                if (lines > 1)
                 {
                     Console.Write(" ");
-                    if (row == 0 || row == n-1)
+                    if (row == 0 || row == lines - 1)
+                    {
                         Console.Write("+");
+                    }
                     else
+                    {
                         Console.Write("|");
+                    }
                 }
+
                 Console.WriteLine();
             }
         }

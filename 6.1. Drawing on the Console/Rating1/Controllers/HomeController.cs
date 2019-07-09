@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-
-namespace Rating1.Controllers
+﻿namespace Rating1.Controllers
 {
+    using System.Web.Mvc;
+
     public class HomeController : Controller
     {
         public ActionResult Index()
         {
             return View();
         }
-
-       
 
         public ActionResult DrawRating(int rating)
         {
@@ -33,6 +27,5 @@ namespace Rating1.Controllers
             ViewBag.Rating = rating;
             return View("Index");
         }
-
     }
 }

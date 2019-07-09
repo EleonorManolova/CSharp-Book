@@ -1,35 +1,34 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace House
+﻿namespace House
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
 
             var stars = 1;
-            if (n % 2 == 0)
-                stars = 2;
-            
-            for (int row = 0; row < (n + 1) / 2; row++)
+            if (lines % 2 == 0)
             {
-                var dash = (n - stars) / 2;
+                stars = 2;
+            }
+
+            for (int row = 0; row < (lines + 1) / 2; row++)
+            {
+                var dash = (lines - stars) / 2;
                 Console.Write(new string('-', dash));
                 Console.Write(new string('*', stars));
                 Console.Write(new string('-', dash));
                 Console.WriteLine();
                 stars += 2;
             }
-            var bodyRow = n / 2;
+
+            var bodyRow = lines / 2;
             for (int row = 0; row < bodyRow; row++)
             {
                 Console.Write("|");
-                Console.Write(new string('*', n - 2));
+                Console.Write(new string('*', lines - 2));
                 Console.Write("|");
                 Console.WriteLine();
             }

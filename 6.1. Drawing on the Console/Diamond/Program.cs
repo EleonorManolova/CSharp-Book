@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Diamond
+﻿namespace Diamond
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
 
             var mid = -1;
-            if (n % 2 == 0) mid = 0;
-            
-            for (int row = 1; row <=(n+1) /2; row++)
+            if (lines % 2 == 0) mid = 0;
+
+            for (int row = 1; row <= (lines + 1) / 2; row++)
             {
-                var left = (n - 2 - mid) / 2;
+                var left = (lines - 2 - mid) / 2;
                 Console.Write(new string('-', left));
                 Console.Write("*");
                 if (mid >= 0)
@@ -25,14 +21,16 @@ namespace Diamond
                     Console.Write(new string('-', mid));
                     Console.Write("*");
                 }
+
                 Console.Write(new string('-', left));
                 mid += 2;
                 Console.WriteLine();
             }
-            mid = (n - 4);
-            for (int row = 1; row < (n + 1) / 2; row++)
+
+            mid = (lines - 4);
+            for (int row = 1; row < (lines + 1) / 2; row++)
             {
-                var left = (n - 2 - mid) / 2;
+                var left = (lines - 2 - mid) / 2;
                 Console.Write(new string('-', left));
                 Console.Write("*");
                 if (mid >= 0)
@@ -40,11 +38,11 @@ namespace Diamond
                     Console.Write(new string('-', mid));
                     Console.Write("*");
                 }
+
                 Console.Write(new string('-', left));
                 mid -= 2;
                 Console.WriteLine();
             }
-            
         }
     }
 }

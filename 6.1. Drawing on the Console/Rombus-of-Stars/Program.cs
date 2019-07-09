@@ -1,43 +1,49 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Rombus_of_Stars
+﻿namespace Rombus_of_Stars
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            var n = int.Parse(Console.ReadLine());
+            var lines = int.Parse(Console.ReadLine());
 
             var stars = 1;
-            var spaces = n -1 ;
+            var spaces = lines - 1;
 
-            for (int row = 0; row < n; row++)
+            for (int row = 0; row < lines; row++)
             {
                 for (int i = 0; i < spaces; i++)
+                {
                     Console.Write(" ");
+                }
+
                 Console.Write("*");
-                for (int i = 0; i < stars-1; i++)
+                for (int i = 0; i < stars - 1; i++)
                 {
                     Console.Write(" *");
                 }
+
                 Console.WriteLine();
                 stars++;
                 spaces--;
-
             }
+
             spaces = 1;
-            stars = n-1;
-            for (int row = 0; row < n -1 ; row++)
+            stars = lines - 1;
+            for (int row = 0; row < lines - 1; row++)
             {
                 for (int i = 0; i < spaces; i++)
+                {
                     Console.Write(" ");
+                }
+
                 Console.Write("*");
                 for (int i = 0; i < stars - 1; i++)
+                {
                     Console.Write(" *");
+                }
+
                 Console.WriteLine();
                 stars--;
                 spaces++;

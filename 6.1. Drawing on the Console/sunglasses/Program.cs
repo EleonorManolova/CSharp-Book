@@ -1,36 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace sunglasses
+﻿namespace sunglasses
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var n = int.Parse(Console.ReadLine());
+    using System;
 
-            for (int row = 0; row < n; row++)
+    public class Program
+    {
+        public static void Main()
+        {
+            var lines = int.Parse(Console.ReadLine());
+
+            for (int row = 0; row < lines; row++)
             {
-                if (row == 0 || row == n - 1)
+                if (row == 0 || row == lines - 1)
                 {
-                    Console.Write(new string('*', 2 * n));
-                    Console.Write(new string(' ', n));
-                    Console.Write(new string('*', 2 * n));
+                    Console.Write(new string('*', 2 * lines));
+                    Console.Write(new string(' ', lines));
+                    Console.Write(new string('*', 2 * lines));
                 }
                 else
                 {
                     Console.Write("*");
-                    Console.Write(new string('/', 2 * n - 2));
+                    Console.Write(new string('/', 2 * lines - 2));
                     Console.Write("*");
-                    if(row == (n-1) / 2)
-                        Console.Write(new string('|', n));
+                    if (row == (lines - 1) / 2)
+                    {
+                        Console.Write(new string('|', lines));
+                    }
                     else
-                        Console.Write(new string(' ', n));
+                    {
+                        Console.Write(new string(' ', lines));
+                    }
+
                     Console.Write("*");
-                    Console.Write(new string('/', 2 * n -2));
+                    Console.Write(new string('/', 2 * lines - 2));
                     Console.Write("*");
                 }
 
