@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _202.X_Expression
+﻿namespace _202.X_Expression
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var expression = Console.Read();
             decimal sum = 0.00m;
@@ -18,21 +14,20 @@ namespace _202.X_Expression
 
             while (expression != '=')
             {
-                
+
                 if (expression == '(')
                 {
                     decimal innerResult = 0;
                     int innerOperator = '+';
-                   // innerSum = 0;
                     while (true)
                     {
                         if (expression == ')')
                         {
                             break;
                         }
+
                         if (0 <= expression - '0' && expression - '0' <= 9)
                         {
-
                             switch (innerOperator)
                             {
                                 case '+':
@@ -50,16 +45,15 @@ namespace _202.X_Expression
                                 default:
                                     break;
                             }
-
                         }
                         else if (expression == '+' || expression == '-' || expression == '*' || expression == '/')
                         {
                             innerOperator = expression;
                         }
+
                         expression = Console.Read();
                     }
                 }
-                
                 else if (0 <= expression - '0' && expression - '0' <= 9)
                 {
                     switch (expressionOperator)
@@ -84,6 +78,7 @@ namespace _202.X_Expression
                 {
                     expressionOperator = expression;
                 }
+
                 if (innerSum != 0)
                 {
                     switch (expressionOperator)
@@ -103,13 +98,14 @@ namespace _202.X_Expression
                         default:
                             break;
                     }
+
                     innerSum = 0;
                 }
 
                 expression = Console.Read();
             }
-            Console.WriteLine($"{sum:0.00}");
 
+            Console.WriteLine($"{sum:0.00}");
         }
     }
 }

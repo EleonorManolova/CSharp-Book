@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _102.Magic_Dates
+﻿namespace _102.Magic_Dates
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var startYear = int.Parse(Console.ReadLine());
             var endYear = int.Parse(Console.ReadLine());
@@ -25,7 +21,6 @@ namespace _102.Magic_Dates
                     sum += month * 10000;
                     for (int date = 1; date <= 31; date++)
                     {
-                        
                         if (month == 4 || month == 6 || month == 9 || month == 11)
                         {
                             if (date == 31) break;
@@ -53,18 +48,21 @@ namespace _102.Magic_Dates
                             d6 * (d7 + d8) +
                             d7 * d8;
 
-                        //Console.WriteLine(sum);
                         if (Number == magicNumber)
                         {
                             Console.WriteLine("{0:00-00-0000}", sum);
                             result = false;
                         }
+
                         sum = sum - date * 1000000;
                     }
+
                     sum = sum - month * 10000;
                 }
+
                 sum = sum - year * 1;
             }
+
             if (result) Console.WriteLine("No");
         }
     }

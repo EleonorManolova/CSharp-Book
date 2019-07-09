@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _103.Five_Special_Letters
+﻿namespace _103.Five_Special_Letters
 {
-    class Program
+    using System;
+
+    public class Program
     {
         public static void Main()
         {
@@ -26,7 +22,6 @@ namespace _103.Five_Special_Letters
                             {
                                 string word = "" + c1 + c2 + c3 + c4 + c5;
                                 long weight = CalcWeight(word);
-                                //Console.WriteLine(word + " " + weight);
                                 if (weight >= minWeight && weight <= maxWeight)
                                 {
                                     if (resultsCount > 0)

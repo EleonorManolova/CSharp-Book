@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _101.Crossing_sequences
+﻿namespace _101.Crossing_sequences
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var a1 = int.Parse(Console.ReadLine());
             var b1 = int.Parse(Console.ReadLine());
@@ -38,21 +34,23 @@ namespace _101.Crossing_sequences
                         Console.WriteLine(d1);
                         equal = false;
                     }
+
                     c2 = a3 + b3;
                     if (j % 2 == 0) b3 = b3 + b2;
                     a3 = c2;
-                    
                 }
+
                 c2 = 0;
                 a3 = a2;
                 b3 = b2;
                 a1 = b1;
                 b1 = c1;
                 c1 = d1;
-              
+
                 if (equal == false)
                     break;
             }
+
             if (equal == true) Console.WriteLine("No");
         }
     }

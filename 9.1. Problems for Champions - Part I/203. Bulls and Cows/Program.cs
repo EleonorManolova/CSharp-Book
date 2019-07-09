@@ -1,25 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _203.Bulls_and_Cows
+﻿namespace _203.Bulls_and_Cows
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var secretNumber = int.Parse(Console.ReadLine());
             var bulls = int.Parse(Console.ReadLine());
             var cows = int.Parse(Console.ReadLine());
             bool solutionFound = false;
-            
 
             var bullsCount = 0;
             var cowsCount = 0;
-
-
 
             for (int i = 1111; i <= 9999; i++)
             {
@@ -43,43 +36,48 @@ namespace _203.Bulls_and_Cows
                 int digitToCheck3 = currentNumber3;
                 int digitToCheck4 = currentNumber4;
 
-                
                 if (digitToCheck2 == guessDigit2)
                 {
                     bullsCount++;
                     guessDigit2 = -1;
                     digitToCheck2 = -2;
                 }
+
                 if (digitToCheck3 == guessDigit3)
                 {
                     bullsCount++;
                     guessDigit3 = -1;
                     digitToCheck3 = -2;
                 }
+
                 if (digitToCheck1 == guessDigit1)
                 {
                     bullsCount++;
                     guessDigit1 = -1;
                     digitToCheck1 = -2;
                 }
+
                 if (digitToCheck4 == guessDigit4)
                 {
                     bullsCount++;
                     guessDigit4 = -1;
                     digitToCheck4 = -2;
                 }
+
                 if (digitToCheck1 == guessDigit2)
                 {
                     cowsCount++;
                     guessDigit2 = -1;
                     digitToCheck1 = -2;
                 }
+
                 if (digitToCheck1 == guessDigit3)
                 {
                     cowsCount++;
                     guessDigit3 = -1;
                     digitToCheck1 = -2;
                 }
+
                 if (digitToCheck1 == guessDigit4)
                 {
                     cowsCount++;
@@ -93,48 +91,56 @@ namespace _203.Bulls_and_Cows
                     guessDigit1 = -1;
                     digitToCheck2 = -2;
                 }
+
                 if (digitToCheck2 == guessDigit3)
                 {
                     cowsCount++;
                     guessDigit3 = -1;
                     digitToCheck2 = -2;
                 }
+
                 if (digitToCheck2 == guessDigit4)
                 {
                     cowsCount++;
                     guessDigit4 = -1;
                     digitToCheck2 = -2;
                 }
+
                 if (digitToCheck3 == guessDigit2)
                 {
                     cowsCount++;
                     guessDigit2 = -1;
                     digitToCheck3 = -2;
                 }
+
                 if (digitToCheck3 == guessDigit1)
                 {
                     cowsCount++;
                     guessDigit1 = -1;
                     digitToCheck3 = -2;
                 }
+
                 if (digitToCheck3 == guessDigit4)
                 {
                     cowsCount++;
                     guessDigit4 = -1;
                     digitToCheck3 = -2;
                 }
+
                 if (digitToCheck4 == guessDigit2)
                 {
                     cowsCount++;
                     guessDigit2 = -1;
                     digitToCheck4 = -2;
                 }
+
                 if (digitToCheck4 == guessDigit3)
                 {
                     cowsCount++;
                     guessDigit3 = -1;
                     digitToCheck4 = -2;
                 }
+
                 if (digitToCheck4 == guessDigit1)
                 {
                     cowsCount++;
@@ -142,19 +148,15 @@ namespace _203.Bulls_and_Cows
                     digitToCheck4 = -2;
                 }
 
-
                 if (bullsCount == bulls && cowsCount == cows)
                 {
                     if (solutionFound)
                         Console.Write(" ");
                     Console.Write($"{i}");
                     solutionFound = true;
-
                 }
-
             }
-                        
-   
+
             if (!solutionFound)
                 Console.WriteLine("No");
         }
