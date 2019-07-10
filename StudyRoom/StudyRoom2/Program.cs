@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace StudyRoom
+﻿namespace StudyRoom
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             double l = double.Parse(Console.ReadLine());
             double w = double.Parse(Console.ReadLine());
@@ -16,7 +12,6 @@ namespace StudyRoom
             double row = l / 1.2;
             int seats = (int)cols * (int)row - 3;
             Console.WriteLine(seats);
-
         }
     }
 }
