@@ -1,0 +1,9 @@
+04. Fruit or Vegetable 
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-or.html
+
+Let's check whether a given product is a fruit or a vegetable. The "fruits" are: banana, apple, kiwi, cherry, lemon and grapes. The "vegetables" are: tomato, cucumber, pepper and carrot. Everything else is "unknown".
+
+Input	      Output
+banana      fruit
+tomato      vegetable
+java	      unknown

@@ -1,0 +1,10 @@
+09. Day of Week
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.html
+
+Let's write a program that prints the day of the week (in English) depending on the given number (1 … 7) or "Error!" if an invalid input is given.
+
+
+Input	      Output
+1           Monday
+7           Sunday
+-1	        Error!

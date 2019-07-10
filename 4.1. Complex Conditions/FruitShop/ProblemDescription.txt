@@ -1,0 +1,46 @@
+07. Fruit Shop
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.html
+
+A fruit shop during week days sells in the following prices:
+
+Fruit	       Price
+banana        2.50
+apple         1.20
+orange        0.85
+grapefruit    1.45
+kiwi          2.70
+pineapple     5.50
+grapes	      3.85
+
+During the weekend days the prices are higher:
+
+Fruit	         Price
+banana          2.70
+apple           1.25
+orange          0.90
+grapefruit      1.60
+kiwi            3.00
+pineapple       5.60
+grapes	        4.20
+
+
+Write a program that reads from the console a fruit (banana / apple / …), a day of the week (Monday / Tuesday / …) and a quantity (a decimal number) and calculates the price according to the prices from the tables above. 
+The result has to be printed rounded up to 2 digits after the decimal point. 
+Print “error” if it is an invalid day of the week or an invalid name of a fruit.
+
+Input	            Output
+orange
+Sunday
+3	                2.70	
+
+kiwi
+Monday
+2.5	              6.75
+
+grapes
+Saturday
+0.5	              2.10	
+
+tomato
+Monday
+0.5	              error

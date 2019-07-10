@@ -1,0 +1,22 @@
+01. Personal Titles 
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/nested-conditions/example-personal-titles.html
+
+Depending on age (decimal number and gender (m / f), print a personal title:
+
+“Mr.” – a man (gender “m”) – 16 or more years old.
+“Master” – a boy (gender “m”) under 16 years.
+“Ms.” – a woman (gender “f”) – 16 or more years old.
+“Miss” – a girl (gender “f”) under 16 years.
+
+Input	  Output	
+12
+f	      Miss	
+
+17
+m	      Mr.
+
+25
+f	      Ms.	
+
+13.5
+m	      Master

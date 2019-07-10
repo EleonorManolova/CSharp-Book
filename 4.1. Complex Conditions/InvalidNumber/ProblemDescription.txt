@@ -1,0 +1,9 @@
+05. Invalid Number 
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-not.html
+
+A given number is valid if it is in the range [100 … 200] or it is 0. Do a validation for an invalid number.
+
+Input	    Output
+75	      invalid
+150	      (no output)
+220	      invalid

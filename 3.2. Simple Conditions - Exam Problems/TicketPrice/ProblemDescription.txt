@@ -1,0 +1,25 @@
+01. Transport Price 
+https://csharp-book.softuni.org/Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/ticket-price/ticket-price.html
+
+A student has to travel n kilometers. He can choose between three types of transportation:
+
+Taxi. Starting fee: 0.70 EUR. Day rate: 0.79 EUR/km. Night rate: 0.90 EUR/km.
+Bus. Day / Night rate: 0.09 EUR/km. Can be used for distances of minimum 20 km.
+Train. Day / Night rate: 0.06 EUR/km. Can be used for distances of minimum 100 km.
+Write a program that reads the number of kilometers n and period of the day (day or night) and calculates the price for the cheapest transport.
+
+Input Data
+Two lines are read from the console:
+
+The first line contains a number n – number of kilometers – an integer in the range of [1 … 5000].
+The second line contains the word “day” or “night” – traveling during the day or during the night.
+Output Data
+Print on the console the lowest price for the given number of kilometers.
+
+
+Input     	Output	
+5
+day	        4.65
+
+7
+night	      7
