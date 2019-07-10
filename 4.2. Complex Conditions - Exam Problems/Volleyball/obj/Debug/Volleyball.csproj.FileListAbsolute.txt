@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\bin\Debug\Volleyball.exe.config
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\bin\Debug\Volleyball.exe
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\bin\Debug\Volleyball.pdb
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\obj\Debug\Volleyball.csprojAssemblyReference.cache
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\obj\Debug\Volleyball.exe
-C:\Elie\SoftUni\ComplexConditionsEx\Volleyball\obj\Debug\Volleyball.pdb

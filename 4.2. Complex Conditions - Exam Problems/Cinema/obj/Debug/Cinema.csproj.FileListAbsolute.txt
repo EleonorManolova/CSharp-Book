@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\bin\Debug\Cinema.exe.config
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\bin\Debug\Cinema.exe
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\bin\Debug\Cinema.pdb
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\obj\Debug\Cinema.exe
-C:\Elie\SoftUni\ComplexConditionsEx\Cinema\obj\Debug\Cinema.pdb
