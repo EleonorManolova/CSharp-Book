@@ -1,0 +1,39 @@
+04. Harvest 
+https://csharp-book.softuni.org/Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/harvest/harvest.html
+In a vineyard with area X square meters, 40% of the harvest goes for wine production.
+Y kilograms of grapes are extracted from 1 m^2m vineyard.
+2,5 kg of grapes are needed for 1 liter of wine. The wanted quantity of wine for sale is Z liters.
+
+Write a program that calculates how much wine can be produced and whether that quantity is enough.
+If it is enough, the rest is divided between the vineyard workers equally.
+
+Input Data
+The input data is read from the console and consists of exactly 4 lines:
+
+First line: X m^2m – the vineyard size – an integer in the range of [10 … 5000].
+Second line: Y grapes for one m^2m – an integer in the range of [0.00 … 10.00].
+Third line: Z needed liters of wine – an integer in the range of [10 … 600].
+Fourth line: number of workers – an integer in the range of [1 … 20].
+Output Data
+The following has to be printed on the console:
+
+If the produced wine is less than the needed quantity:
+“It will be a tough winter! More {insufficient wine} liters wine needed.”
+* The result has to be rounded down to the nearest integer.
+If the produced wine is more than the needed quantity:
+“Good harvest this year! Total wine: {total wine} liters.”
+* The result has to be rounded down to the nearest integer.
+“{Wine left} liters left -> {wine for one worker} liters per person.”
+* Both of the results have to be rounded up to the higher integer.
+
+Input	    Output	
+650
+2
+175
+3	        Good harvest this year! Total wine: 208 liters.
+33        liters left -> 11 liters per person.	
+
+1020
+1.5
+425
+4	        It will be a tough winter! More 180 liters wine needed.
