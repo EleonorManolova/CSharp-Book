@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\3.1. Simple Conditions",
     "\\3.1. Simple Conditions\\AreaOfFigures",
-    "\\3.2. Simple Conditions - Exam Problems"
+    "\\3.2. Simple Conditions - Exam Problems",
+    "\\ChangeTiles",
+    "\\ChangeTiles\\ChangeTiles"
   ],
-  "SelectedNode": "\\2.1SimpleCalculations",
+  "SelectedNode": "\\3.1. Simple Conditions\\AreaOfFigures\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\bin\Debug\ExamProblems.exe.config
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\bin\Debug\ExamProblems.exe
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\bin\Debug\ExamProblems.pdb
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\obj\Debug\Firm.csprojAssemblyReference.cache
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\obj\Debug\Firm.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\obj\Debug\ExamProblems.exe
-C:\Elie\SoftUni\SimpleConditions\ExamProblems\obj\Debug\ExamProblems.pdb
