@@ -1,0 +1,13 @@
+10. Animal Type 
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.html
+
+Write a program that prints the type of the animal depending on its name:
+
+dog -> mammal
+crocodile, tortoise, snake -> reptile
+others -> unknown
+
+Input	      Output	
+tortoise	  reptile	
+dog	        mammal	
+elephant	  unknown
