@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Money
+﻿namespace Money
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var bitcoin = double.Parse(Console.ReadLine());
             var uian = double.Parse(Console.ReadLine());
@@ -18,7 +14,6 @@ namespace Money
             var euro = (bitbgn + uianbgn) / 1.95;
             var resultcom = (comission / 100) * euro;
             Console.WriteLine(euro - resultcom);
-
         }
     }
 }
