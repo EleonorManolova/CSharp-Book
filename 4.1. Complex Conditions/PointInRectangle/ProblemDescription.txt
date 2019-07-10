@@ -1,21 +1,12 @@
 03. Point in Rectangle 
-https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.html
+https://csharp-book.softuni.org/Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-and.html
 
-Write a program that checks whether a point {x, y} is placed onto any of the sides of a rectangle {x1, y1} – {x2, y2}. 
-The input data is read from the console and consists of 6 lines: the decimal numbers x1, y1, x2, y2, x and y (as it is guaranteed that x1 < x2 and y1 < y2).
-Print "Border" (if the point lies on any of the sides) or "Inside / Outside" (in the opposite case).
+Checks whether point {x, y} is placed inside the rectangle {x1, y1} – {x2, y2}. The input data is read from the console and consists of 6 lines: the decimal numbers x1, y1, x2, y2, x and y (as it is guaranteed that x1 < x2 and y1 < y2).
 
-Input	        Output
-2
--3
-12
-3
-12
--1	          Border	
-
+Input	    Output	
 2
 -3
 12
 3
 8
--1	          Inside / Outside
+-1	      Inside
