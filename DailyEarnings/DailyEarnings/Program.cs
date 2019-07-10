@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DailyEarnings
+﻿namespace DailyEarnings
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int N = int.Parse(Console.ReadLine());
             double M = double.Parse(Console.ReadLine());
@@ -16,8 +12,7 @@ namespace DailyEarnings
             double salary = (12 + 2.5) * N * M;
             double taxes = 25 / 100.00 * salary;
             double result = (salary - taxes) / 365;
-            Console.WriteLine(Math.Round(result * course,2));
-
+            Console.WriteLine(Math.Round(result * course, 2));
         }
     }
 }
