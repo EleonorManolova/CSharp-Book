@@ -1,0 +1,57 @@
+03. Operations 
+https://csharp-book.softuni.org/Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/operations/operations.html
+
+Write a program that reads two integers (n1 and n2) and an operator that performs a particular mathematical operation with them. 
+Possible operations are: summing up (+), subtraction (-), multiplying (*), division (/) and modular division (%).
+Upon summing up, subtracting and multiplying, the console must print the result and display whether it is even or odd number. 
+Upon regular division – just the result, and upon modular division – the remainder. 
+You need to take into consideration the fact that the divisor can be equal to zero (= 0) and dividing by zero is not possible. 
+In this case, a special notification must be printed.
+
+Input Data
+3 lines are read from the console:
+
+N1 – integer within the range [0 … 40 000].
+N2 – integer within the range [0 … 40 000].
+Operator – one character among: "+", "-", "*", "/", "%".
+
+Output Data
+Print the output as a single line on the console:
+
+If the operation is summing up, subtraction or multiplying:
+"{N1} {operator} {N2} = {output} – {even/odd}".
+If the operation is division:
+"{N1} / {N2} = {output}" – the result is formatted up to the second digit after the decimal point.
+If the operation is modular division:
+"{N1} % {N2} = {remainder}".
+In case of dividing by 0 (zero):
+"Cannot divide {N1} by zero".
+
+Input	    Output	
+123
+12
+/	        123 / 12 = 10.25	
+
+112
+0
+/	        Cannot divide 112 by zero
+
+10
+3
+%	        10 % 3 = 1	
+
+10
+0
+%	        Cannot divide 10 by zero
+
+10
+12
++	        10 + 12 = 22 - even
+
+10
+1
+-	        10 - 1 = 9 - odd
+
+7
+3
+*	        7 * 3 = 21 - odd
