@@ -1,0 +1,46 @@
+05. Hotel Room 
+https://csharp-book.softuni.org/Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/hotel-room.html
+
+A hotel offers two types of rooms: studio and apartment. Prices are in Bulgarian levs (BGN / lv).
+
+Write a program that calculates the price of the whole stay for a studio and apartment. 
+Prices depend on the month of the stay:
+
+May and October	June and September	July and August
+Studio – 50 BGN/per night	Studio – 75.20 BGN/per night	Studio – 76 BGN/per night
+Apartment – 65 BGN/per night	Apartment – 68.70 BGN/per night	Apartment – 77 BGN/per night
+The following discounts are also offered:
+
+For a studio, in case of more than 7 stays in May and October: 5% discount.
+For a studio, in case of more than 14 stays in May and October: 30% discount.
+For a studio, in case of more than 14 stays in June and September: 20% discount.
+For an apartment, in case of more than 14 stays, no limitation regarding the month: 10% discount.
+
+Input Data
+The input data is read from the console and contains exactly two lines:
+
+The first line contains the month – May, June, July, August, September or October.
+The second line is the number of stays – integer within the range [0 … 200].
+
+Output Data
+Print the following two lines on the console:
+
+On the first line: "Apartment: { price for the whole stay } lv."
+On the second line: "Studio: { price for the whole stay } lv."
+The price for the whole stay must be formatted up to two symbols after the decimal point.
+
+
+Input	        Output	                   Comments
+May
+15	          Apartment: 877.50 lv.
+              Studio: 525.00 lv.	       In May, in case of more than 14 stays, the discount for a studio is 30% (50 - 15 = 35),                                                  and for the apartment is 10% (65 - 6.5 = 58.5).
+                                         The whole stay in the apartment: 877.50 lv.
+                                         The whole stay in the studio: 525.00 lv.
+
+June
+14	          Apartment: 961.80 lv.
+              Studio: 1052.80 lv.
+              
+August
+20	          Apartment: 1386.00 lv.
+              Studio: 1520.00 lv.
