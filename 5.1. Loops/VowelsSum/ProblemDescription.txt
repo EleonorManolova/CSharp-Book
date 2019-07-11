@@ -1,0 +1,16 @@
+09. Vowels Sum 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/examples-for-loops/example-vowels-sum/example-vowels-sum.html
+
+Write a program that inputs text (string), calculates and prints the sum of the values of vowels according to the table below:
+
+a 	e 	i 	o 	u
+1 	2	  3	  4  	5
+
+Input	      Output	
+hello	      6
+
+bamboo	    9
+
+hi	        3
+
+beer	      4
