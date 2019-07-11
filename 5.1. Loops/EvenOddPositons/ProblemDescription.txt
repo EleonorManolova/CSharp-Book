@@ -1,0 +1,43 @@
+11. Odd / Even Position 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.html
+
+Write a program that reads n numbers and calculates the sum, the min and max values of the numbers on even and odd positions (counted from 1). If there is no min / max element, print "No".
+
+
+Input	        Output	
+6
+2
+3
+5
+4
+2
+1	      OddSum=9,
+        OddMin=2,
+        OddMax=5,
+        EvenSum=8,
+        EvenMin=1,
+        EvenMax=4	
+        
+2
+1.5
+-2.5	  OddSum=1.5,
+        OddMin=1.5,
+        OddMax=1.5,
+        EvenSum=-2.5,
+        EvenMin=-2.5,
+        EvenMax=-2.5
+        
+1
+1	      OddSum=1,
+        OddMin=1,
+        OddMax=1,
+        EvenSum=0,
+        EvenMin=No,
+        EvenMax=No	
+        
+0	      OddSum=0,
+        OddMin=No,
+        OddMax=No,
+        EvenSum=0,
+        EvenMin=No,
+        EvenMax=No
