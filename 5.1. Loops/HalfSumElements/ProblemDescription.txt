@@ -1,0 +1,42 @@
+10. Half Sum Element 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/exercises-loops/half-sum-element.html
+
+Write a program that inputs n integers and checks whether among them there is a number equal to the sum of all the rest.
+If there is such an element, print "Yes" + its value, otherwise – "No" + the difference between the largest element and the sum of the rest (by absolute value).
+
+
+Input	          Output	          Comments
+7
+3
+4
+1
+1
+2
+12
+1	              Yes
+                Sum = 12	        3 + 4 + 1 + 2 + 1 + 1 = 12
+                
+4
+6
+1
+2
+3	              Yes
+                Sum = 6	          1 + 2 + 3 = 6
+                
+3
+1
+1
+10	            No
+                Diff = 8	        10 - (1 + 1) = 8
+                
+3
+5
+5
+1	              No
+                Diff = 1	        5 - (5 + 1) = 1
+                
+3
+1
+1
+1	              No
+                Diff = 1          1 - (1 + 1) = 1
