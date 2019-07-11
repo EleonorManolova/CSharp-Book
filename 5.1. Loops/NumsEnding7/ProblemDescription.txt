@@ -1,0 +1,4 @@
+02. Numbers Ending in 7 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/for-loop/for-loop/example-numbers-ending-by-7.html
+
+Write a program that finds all numbers within the range [1 … 1000] that end in 7.
