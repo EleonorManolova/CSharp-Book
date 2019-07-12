@@ -1,0 +1,5 @@
+02. Numbers N...1 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/loop-step/loop-step/example-numbers-n1.html
+
+Write a program that prints the numbers from n to 1 in reverse order (step of -1). 
+For example, if n = 100, the result will be: 100, 99, 98, …, 3, 2, 1.
