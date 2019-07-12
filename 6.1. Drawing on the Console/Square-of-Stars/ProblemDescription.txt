@@ -1,0 +1,17 @@
+03. Square of Stars 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/nested-loops/example-square-of-stars.html
+
+Print on the console a square made of N x N stars (use a space between the stars, staying on the same line):
+
+Input	  Output
+2	      * *
+        * *	
+
+3	      * * *
+        * * *
+        * * *	
+
+4	      * * * *
+        * * * *
+        * * * *
+        * * * *
