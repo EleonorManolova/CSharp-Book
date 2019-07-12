@@ -1,0 +1,10 @@
+01. Numbers 1...N with Step 3 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/loop-step/loop-step.html
+
+Write a program that prints the numbers from 1 to n with step of 3. For example, if n = 100, the result will be: 1, 4, 7, 10, …, 94, 97, 100.
+
+We can solve the problem using the following sequence of actions (algorithm):
+
+We read the number n from the console input.
+We run a for loop from 1 to n with step size of 3.
+In the body of the loop, we print the value of the current step.
