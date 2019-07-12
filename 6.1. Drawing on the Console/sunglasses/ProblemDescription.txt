@@ -1,0 +1,20 @@
+08. Sunglasses 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/sunglasses/sunglasses.html
+
+Write a program that takes an integer n (3 ≤ n ≤ 100) and prints sunglasses with size of 5*n x n as found in the examples:
+
+Input	      Output	
+3	          ******   ******
+            *////*|||*////*
+            ******   ******	
+
+4         	********    ********
+            *//////*||||*//////*
+            *//////*    *//////*
+            ********    ********
+
+5	          **********     **********
+            *////////*     *////////*
+            *////////*|||||*////////*
+            *////////*     *////////*
+            **********     **********
