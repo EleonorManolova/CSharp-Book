@@ -1,0 +1,25 @@
+06. Rhombus of Stars 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/nested-loops/example-rhombus-of-stars.html
+
+Write a program that takes a positive integer n and prints a rhombus made of stars with size n.
+
+Input	      Output
+1	          *	
+
+2	          * 
+           * *
+            * 
+
+3	          *  
+           * * 
+          * * *
+           * * 
+            *  
+            
+ 4	        *   
+           * *  
+          * * * 
+         * * * *
+          * * * 
+           * *  
+            *   
