@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Number-1-with-step-3", "7.1Complex-Loops\01Number-1-with-step-3.csproj", "{423E973F-5AE0-4990-865F-F69FC8A71EE5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Sequence 2k+1", "05. Sequence 2k+1\05. Sequence 2k+1.csproj", "{21A7E2EE-24D7-48E2-BD83-A6490A20D1D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Number in Range 1to100", "06. Number in Range 1to100\06. Number in Range 1to100.csproj", "{1C5D4B65-6BEB-4A11-A620-C27295AD0FDA}"
@@ -37,16 +35,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EvenPowersof2", "04.EvenP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Fibonaci", "14.Fibonacci\14.Fibonaci.csproj", "{426D287F-4BA6-4D16-B941-E3376CE91456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Number-1-with-step-3", "01Number-1-with-step-3\01Number-1-with-step-3.csproj", "{423E973F-5AE0-4990-865F-F69FC8A71EE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{21A7E2EE-24D7-48E2-BD83-A6490A20D1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{21A7E2EE-24D7-48E2-BD83-A6490A20D1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A7E2EE-24D7-48E2-BD83-A6490A20D1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -111,6 +107,10 @@ Global
 		{426D287F-4BA6-4D16-B941-E3376CE91456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426D287F-4BA6-4D16-B941-E3376CE91456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426D287F-4BA6-4D16-B941-E3376CE91456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423E973F-5AE0-4990-865F-F69FC8A71EE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
