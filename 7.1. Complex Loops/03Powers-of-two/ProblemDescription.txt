@@ -1,4 +1,4 @@
 03. Powers of Two 
-https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/loop-step/loop-step/example-even-powers-of-2.html
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/loop-step/loop-step/example-numbers-12n.html
 
-Print the even powers of 2 to 2^n: 2^0, 2^2, 2^4, 2^8, …, 2^n. For example, if n = 10, the result will be: 1, 4, 16, 64, 256, 1024.
+Write a program that prints the numbers from 1 to 2^n (two in power of n). For example, if n = 10, the result will be: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024.
