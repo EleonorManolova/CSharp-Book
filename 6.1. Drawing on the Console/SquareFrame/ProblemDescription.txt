@@ -1,0 +1,27 @@
+05. Square Frame 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/nested-loops/example-square-frame.html
+
+Write a program that takes a positive integer n and draws on the console a square frame with a size of n * n.
+
+Input	    Output	
+3	        + - +
+          | - |
+          + - +	
+
+4	        + - - +
+          | - - |
+          | - - |
+          + - - +
+
+5	        + - - - +
+          | - - - |
+          | - - - |
+          | - - - |
+          + - - - +	
+
+6	        + - - - - +
+          | - - - - |
+          | - - - - |
+          | - - - - |
+          | - - - - |
+          + - - - - +

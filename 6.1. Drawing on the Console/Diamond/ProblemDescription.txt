@@ -1,0 +1,29 @@
+10. Diamond 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/diamond.html
+
+Write a program that takes an integer n (1 ≤ n ≤ 100) and prints a diamond with size n, as in the following examples:
+
+Input	      Output	
+1	          *
+
+2	          **	
+
+3	          -*-
+            *-*
+            -*-
+
+4	          -**-
+            *--*
+            -**-	
+
+5	          --*--
+            -*-*-
+            *---*
+            -*-*-
+            --*--
+
+6	          --**--
+            -*--*-
+            *----*
+            -*--*-
+            --**--

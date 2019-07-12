@@ -1,0 +1,23 @@
+07. Christmas Tree 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/nested-loops/example-christmas-tree.html
+
+Write a program that takes a number n (1 ≤ n ≤ 100) and prints a Christmas tree with height of n+1.
+
+Input	      Output
+1	           |  
+           * | *	
+
+2	           |   
+           * | * 
+          ** | **
+
+3	           |    
+           * | *  
+          ** | ** 
+         *** | ***	
+         
+4	           |     
+           * | *   
+          ** | **  
+         *** | *** 
+        **** | ****

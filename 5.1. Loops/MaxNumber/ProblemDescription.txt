@@ -1,0 +1,29 @@
+05. Max Number 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/examples-for-loops/example-max-number/example-max-number.html
+
+Write a program that enters n integers (n > 0) and finds the max number among them (the largest number). 
+The first line of the input, specifies the number of integers n. 
+The next n lines hold the integers, one per line. Examples:
+
+Input	    Output
+2
+100
+99	      100
+
+3
+-10
+20
+-30	      20
+
+4
+45
+-20
+7
+99        99
+
+1
+999	      999
+
+2
+-1
+-2	      -1

@@ -1,0 +1,36 @@
+01. Draw Fort 
+https://csharp-book.softuni.org/Content/Chapter-6-2-nested-loops-exam-problems/exam-problems/draw-fort/draw-fort.html
+
+Write a program that reads from the console an integer n and draws a fort 2 * n columns wide and n rows tall, as in the examples below. 
+The left and right columns inside are n / 2 wide.
+
+Input Data
+The input is an integer n within the range [3 … 1000].
+
+Output Data
+Print on the console n text rows, depicting the fort exactly as in the examples.
+
+Input	      Output	
+3	          /^\/^\
+            |    |
+            \_/\_/	
+
+4	          /^^\/^^\
+            |      |
+            |      |
+            \__/\__/
+
+5	          /^^\__/^^\
+            |        |
+            |        |
+            |   __   |
+            \__/  \__/
+
+8	          /^^^^\____/^^^^\
+            |              |
+            |              |
+            |              |
+            |              |
+            |              |
+            |     ____     |
+            \____/    \____/

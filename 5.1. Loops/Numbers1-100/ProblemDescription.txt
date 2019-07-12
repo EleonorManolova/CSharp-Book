@@ -1,0 +1,5 @@
+01. Numbers from 1 to 100 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/for-loop/for-loop/example-numbers-from-1-to-100.html
+
+Write a program that prints the numbers from 1 to 100. 
+The program does not accept input and prints the numbers from 1 to 100 sequentially, each on a separate line.

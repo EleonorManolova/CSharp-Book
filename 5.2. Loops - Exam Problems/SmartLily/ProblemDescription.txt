@@ -1,0 +1,40 @@
+02. Smart Lilly 
+https://csharp-book.softuni.org/Content/Chapter-5-2-loops-exam-problems/exam-problems/smart-lily/smart-lily.html
+
+Lilly is N years old. For each birthday she receives a present. For each odd birthday (1, 3, 5, …, n) she receives toys, and for each even birthday (2, 4, 6, …, n) she receives money.
+For her second birthday she received 10.00 USD, and the amount is increased by 10.00 USD for each following even birthday (2 -> 10, 4 -> 20, 6 -> 30 etc.). Over the years Lilly has secretly saved her money.
+Lilly's brother, in the years when she received money, took 1.00 USD from each of the amounts.
+Lilly has sold the toys, received over the years, each one for P USD and added the sum to the amount of saved money. 
+With the money she wanted to buy a washing machine for X USD.
+Write a program that calculates how much money she has saved and if it is enough to buy a washing machine.
+
+Input Data
+We read from the console 3 numbers, each on a separate line:
+
+Lilly's age – integer in the range of [1 … 77].
+Price of the washing machine – number in the range of [1.00 … 10 000.00].
+Unit price of each toy – integer in the range of [0 … 40].
+
+Output Data
+Print on the console one single line:
+
+If Lilly's money is enough:
+“Yes! {N}” – where N is the remaining money after the purchase
+If the money is not enough:
+“No! {M}” – where M is the insufficiency amount
+Numbers N and M must be formatted up to the second symbol after the decimal point.
+
+Input	        Output	    Comments
+10
+170.00
+6	            Yes! 5.00	
+                          For the first birthday she gets a toy; 2nd -> 10 USD; 3rd -> toy; 4th -> 10 + 10 = 20 USD; 5th -> toy; 6th ->                           20 + 10 = 30 USD; 7th -> toy; 8th -> 30 + 10 = 40 USD; 9th -> toy; 10th -> 40 + 10 = 50 USD.
+                          She has saved: 10 + 20 + 30 + 40 + 50 = 150 USD. She sold 5 toys for 6 USD each = 30 USD.
+                          Her brother took 1 USD 5 times = 5 USD. Remaining amount: 150 + 30 – 5 = 175 USD.
+                          175 >= 170 (price of the washing machine): she managed to buy it and is left with 175-170 = 5 USD.
+
+21
+1570.98
+3	          No! 997.98	
+                          She has saved 550 USD. She has sold 11 toys, 3 USD each = 33 USD. Her brother has taken for 10 years 1 USD                               each year = 10 USD. Remaining amount: 550 + 33 - 10 = 573 USD. 
+                          573 < 1570.98: she did not manage to buy a washing machine. The insufficiency amount is: 1570.98 - 573 =                                 997.98 USD.

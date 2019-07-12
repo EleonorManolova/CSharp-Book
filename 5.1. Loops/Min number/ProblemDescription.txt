@@ -1,0 +1,21 @@
+06. Min Number 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/examples-for-loops/example-min-number/example-min-number.html
+
+Write a program that inputs n integers (n > 0) and finds the min number among them (the smallest number). 
+First enter the number of integers n, then n numbers additionally, one per line.
+
+Input	    Output
+2
+100
+99	      99
+
+3
+-10
+20
+-30	      -30
+
+4
+45
+-20
+7
+99        -20

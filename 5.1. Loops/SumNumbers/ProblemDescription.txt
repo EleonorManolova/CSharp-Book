@@ -1,0 +1,29 @@
+04. Sum Numbers 
+https://csharp-book.softuni.org/Content/Chapter-5-1-loops/examples-for-loops/example-sum-numbers/example-sum-numbers.html
+
+Write a program that inputs n integers and sums them up.
+
+The first line of the input holds the number of integers n.
+Each of the following n lines holds an integer for summing.
+Sum up the numbers and finally print the result.
+
+Input	  Output
+2
+10
+20	    30
+
+3
+-10
+-20
+-30	   -60
+
+4
+45
+-20
+7
+11      43 
+     
+1
+999	    999
+
+0	      0

@@ -1,0 +1,26 @@
+05. Axe 
+https://csharp-book.softuni.org/Content/Chapter-6-2-nested-loops-exam-problems/exam-problems/axe/axe.html
+
+Write a program that takes an integer n and draws an axe with size as shown below. The width of the axe is 5 * N columns.
+
+Input Data
+The input is an integer n within the range [2...42].
+
+Output Data
+Print an axe on the console just as shown in the examples.
+
+Input	    Output	
+2	        ------**--
+          ------*-*-
+          *******-*-
+          ------***-
+          
+5	        ---------------**--------
+          ---------------*-*-------
+          ---------------*--*------
+          ---------------*---*-----
+          ---------------*----*----
+          ****************----*----
+          ****************----*----
+          ---------------*----*----
+          --------------********---

@@ -1,0 +1,55 @@
+02. Trip 
+https://csharp-book.softuni.org/Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/trip/trip.html
+
+It is strange, but most people start planning their vacations well in advance.
+A young programmer from Bulgaria has certain budget and spare time in a particular season.
+
+Write a program that accepts as input the budget (in BGN – Bulgarian levs) and season, and as output displays programmer's vacation place and the amount of money they will spend.
+
+The budget determines the destination, and the season determines what amount of the budget will be spent.
+If the season is summer, the programmer will go camping, if it is winter – they will stay in a hotel.
+If it is in Europe, regardless of the season, the programmer will stay in a hotel.
+Each camp or hotel, according to the destination, has its own price, which corresponds to a particular percentage of the budget:
+
+If 100 BGN or less – somewhere in Bulgaria.
+Summer – 30% of the budget.
+Winter – 70% of the budget.
+If 1000 BGN or less – somewhere on the Balkans.
+Summer – 40% of the budget.
+Winter – 80% of the budget.
+If more than 1000 BGN – somewhere in Europe.
+Upon traveling in Europe, regardless of the season, the programmer will spend 90% of the budget.
+
+Input Data
+The input data will be read from the console and will consist of two lines:
+
+The first line holds the budget – real number in the range [10.00 … 5000.00].
+The second line holds one of two possible seasons: "summer" or "winter".
+Output Data
+Two lines must be printed on the console.
+
+On the first line – "Somewhere in {destination}" among "Bulgaria", "Balkans" and "Europe".
+On the second line – "{Vacation type} – {Amount spent}".
+The Vacation can be in a "Camp" or "Hotel".
+The Amount must be rounded up to the second digit after the decimal point.
+
+Input	      Output
+50
+summer	    Somewhere in Bulgaria
+            Camp - 15.00
+            
+75
+winter	    Somewhere in Bulgaria
+            Hotel - 52.50
+            
+312
+summer	    Somewhere in Balkans
+            Camp - 124.80
+            
+678.53
+winter	    Somewhere in Balkans
+            
+            Hotel - 542.82
+1500
+summer	    Somewhere in Europe
+            Hotel - 1350.00
