@@ -1,0 +1,32 @@
+09. House 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/house/house.html
+
+Write a program that takes a number n (2 ≤ n ≤ 100) and prints a house with size n x n, just as in the examples:
+
+Input	      Output	
+2	          **
+            ||
+
+3	          -*-
+            ***
+            |*|	
+
+4	          -**-
+            ****
+            |**|
+            |**|
+
+5	          --*--
+            -***-
+            *****
+            |***|
+            |***|	
+            
+8	          ---**---
+            --****--
+            -******-
+            ********
+            |******|
+            |******|
+            |******|
+            |******|
