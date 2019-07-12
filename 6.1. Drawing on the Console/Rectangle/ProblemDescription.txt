@@ -1,0 +1,16 @@
+01. Rectangle of 10 x 10 Stars 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/example-rectangle-10x10/example-rectangle-10x10.html
+
+Print on the console a rectangle made out of 10 x 10 stars.
+
+Input	  Output
+(none)	**********
+        **********
+        **********
+        **********
+        **********
+        **********
+        **********
+        **********
+        **********
+        **********
