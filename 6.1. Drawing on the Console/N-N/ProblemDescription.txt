@@ -1,0 +1,17 @@
+02. Rectangle of N x N Stars 
+https://csharp-book.softuni.org/Content/Chapter-6-1-nested-loops/example-rectangle-NxN/example-rectangle-NxN.html
+
+Write a program that gets a positive integer n and prints on the console a rectangle made out of N x N stars.
+
+Input	Output	
+2	    **
+      **	
+  
+3	    ***
+      ***
+      ***	
+  
+4	    ****
+      ****
+      ****
+      ****
