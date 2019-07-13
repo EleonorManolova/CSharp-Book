@@ -1,0 +1,7 @@
+12. Break Sum 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/nested-loops-and-break/nested-loops-and-break.html
+
+Once we have learned what the nested loops are and how the break operator works, it is time to figure out how they work together.
+For a better understanding, let's step by step write a program that should make all possible combinations of pairs of numbers.
+The first number of the combination is increasing from 1 to 3 and the second one is decreasing from 3 to 1. 
+The problem must continue running until i + j is not equal to 2 (i = 1 and j = 1).
