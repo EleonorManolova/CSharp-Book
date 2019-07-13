@@ -1,0 +1,5 @@
+06. Number in Range [1...100] 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/while-loop/while-loop/example-number-in-range-1100.html
+
+Enter an integer in the range [1 … 100]. If the entered number is invalid, enter it again. 
+In this case, an invalid number will be any number that is not within the specified range.
