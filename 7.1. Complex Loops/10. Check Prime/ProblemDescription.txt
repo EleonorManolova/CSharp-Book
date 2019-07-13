@@ -1,0 +1,6 @@
+10. Check Prime 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/infinite-loops/infinite-loops/example-prime-number-checking.html
+
+The next problem we are going to solve is to check whether given number is prime.
+An integer is prime if it cannot be decomposed to a product of other numbers.
+For example: 2, 5 and 19 are primes, while 9, 12 and 35 are composite.
