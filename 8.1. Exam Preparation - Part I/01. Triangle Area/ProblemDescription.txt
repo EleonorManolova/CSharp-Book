@@ -1,0 +1,21 @@
+01. Triangle Area 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems/problem-triangle-area.html
+
+Triangle in the plane is defined by the coordinates of its three vertices. First the vertex (x1, y1) is set.
+Then the other two vertices are set: (x2, y2) and (x3, y3), which lie on a common horizontal line (i.e. they have the same Y coordinates). Write a program that calculates the area of the triangle by the coordinates of its three vertices.	
+
+Input
+The console reads 6 integers (one per line): x1, y1, x2, y2, x3, y3.
+
+All input numbers are in range [-1000 … 1000].
+It is guaranteed that y2 = y3.
+Output
+Print on the console the area of the triangle.
+
+Input	  Output	
+5
+-2
+6
+1
+1
+1	      7.5
