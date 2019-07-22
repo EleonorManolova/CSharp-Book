@@ -1,0 +1,25 @@
+03. Point on Segment 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems/problem-point-on-a-segment.html
+
+A horizontal segment is placed on a horizontal line, set with the x coordinates of both ends: first and second. 
+A point is located on the same horizontal line and is set with its x coordinate. 
+Write a program that checks whether the point is inside or outside the segment and calculates the distance to the nearest end of the segment.
+
+Input
+The console reads 3 integer numbers (one per line):
+
+On the first line the number "first" is read – one end of the segment.
+On the second line the number "second" is read – the other end of the segment.
+On the third line the number "point" is read – the location of the point.
+All input numbers are integers in the range [-1000 … 1000].
+
+Output
+Print the result on the console:
+
+On the first line, print "in" or "out" – whether the point is inside or outside the segment.
+On the second line, print the distance from the point to the nearest end of the segment.
+
+Input	Output	
+10
+5     in
+7	    2
