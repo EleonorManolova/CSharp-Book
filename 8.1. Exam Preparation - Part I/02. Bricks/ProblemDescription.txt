@@ -1,0 +1,22 @@
+02. Bricks 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems/problem-moving-bricks.html
+
+Construction workers have to transfer a total of x bricks. Workers are w and work simultaneously.
+They transport the bricks in trolleys, each with a capacity of m bricks.
+Write a program that reads the integers x, w, and m, and calculates what is the minimum number of courses the workers need to do to transport the bricks.
+
+Input
+On the console 3 integers are given, one per line:
+
+The number of bricks x is read from the first line.
+The number of workers w is read from the second line
+The capacity of the trolley m is read from the third line.
+All input numbers are integers in the range [1 … 1000].
+
+Output
+Print on the console the minimum number of courses needed to transport the bricks.
+
+Input	      Output	    Comments
+120
+2
+30	        2	            We have 2 workers, each transporting 30 bricks per course. In total, workers are transporting 60 bricks per                               course. To transport 120 bricks, exactly 2 courses are needed.
