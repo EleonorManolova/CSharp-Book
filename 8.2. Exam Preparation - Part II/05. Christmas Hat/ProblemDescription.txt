@@ -1,0 +1,26 @@
+05. Christmas Hat 
+https://csharp-book.softuni.org/Content/Chapter-8-2-exam-preparation-part-2/christmas-hat/christmas-hat.html
+
+Write a program that reads from the console an integer n and draws a Christmas hat with width of 4 * n + 1 columns and height of 2 * n + 5 rows, as in the examples below.
+
+Input Data
+The input is read from the console – an integer n within the range [3 … 100].
+
+Output Data
+Print on the console a Christmas hat, exactly like in the examples.
+
+Input	Output
+4	
+      ......./|\.......
+      .......\|/.......
+      .......***.......
+      ......*-*-*......
+      .....*--*--*.....
+      ....*---*---*....
+      ...*----*----*...
+      ..*-----*-----*..
+      .*------*------*.
+      *-------*-------*
+      *****************
+      *.*.*.*.*.*.*.*.*
+      *****************
