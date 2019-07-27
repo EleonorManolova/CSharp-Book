@@ -1,0 +1,15 @@
+13. Enter Even Number (with Text Input) 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/infinite-loops/infinite-loops/example-enter-an-even-number.html
+
+Write a program that checks if an n number is even, and if it is, prints it on the screen. 
+If an invalid number is entered, the program should display a notification that the entered input is not a valid number and the entering of the number has to be done again.
+
+Here's how we can solve the problem:
+
+We create an infinite while loop and as a condition we set true.
+In the body of the loop:
+We create a try-catch construction.
+In the try block we write the programming logic for reading the user input, parsing it to a number, and the check for even number.
+If it is an even number, we print it and go out of the loop (with break). The program is done and ends.
+If it is an odd number, we print a message saying that an even number is required without leaving the loop (because we want it to be repeated again).
+If we catch an exception when executing the try block, we write a message for invalid input number (and the loop is repeated because we do not explicitly go out of it).

@@ -1,0 +1,14 @@
+16. Number Table 
+https://csharp-book.softuni.org/Content/Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.html
+
+Print the numbers 1 … n in a table as in the examples below.
+
+Input	  Output
+3	      1 2 3
+        2 3 2
+        3 2 1	
+
+4	      1 2 3 4
+        2 3 4 3
+        3 4 3 2
+        4 3 2 1

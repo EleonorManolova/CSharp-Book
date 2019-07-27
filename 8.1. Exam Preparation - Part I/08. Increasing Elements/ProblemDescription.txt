@@ -1,0 +1,35 @@
+08. Increasing Elements 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-increasing-elements.html
+
+A series of n numbers is given: a1, a2, …, an. Calculate the length of the longest increasing sequence of consecutive elements in the series of numbers.
+
+Input
+The input data is read from the console. The first line holds an integer n (0 ≤ n ≤ 1000). 
+On the following n lines we are given n integers in the range [-1000 … 1000]: a1, a2, …, an.
+
+Output
+On the console we must print one number – the length of the longest increasing sequence.
+
+Input	    Output	
+3
+5
+2
+4	        2	
+
+4
+2
+8
+7
+6	        2
+
+4
+1
+2
+4
+4	        3	
+
+4
+5
+6
+7
+8	        4

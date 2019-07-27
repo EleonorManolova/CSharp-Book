@@ -1,0 +1,38 @@
+11. Increasing 4 Numbers 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems/problem-increasing-4-numbers.html
+
+For given pair of numbers a and b generate all four number n1, n2, n3, n4, for which a ≤ n1 < n2 < n3 < n4 ≤ b.
+
+In combinatorics such a selection of subset from given set (or range) is called "combination", so the problem is essence is to generate all combinations of 4 elements from given range of integers.
+
+Input
+The input contains two integers a and b in the range [0 … 1000], one per line.
+
+Output
+The output contains all numbers in batches of four, in ascending order, one per line.
+
+Sample Input and Output
+Input	Output	
+3
+7	    3 4 5 6
+      3 4 5 7
+      3 4 6 7
+      3 5 6 7
+      4 5 6 7	
+
+15
+20	  15 16 17 18
+      15 16 17 19
+      15 16 17 20
+      15 16 18 19
+      15 16 18 20
+      15 16 19 20
+      15 17 18 19
+      15 17 18 20
+      15 17 19 20
+      15 18 19 20
+      16 17 18 19
+      16 17 18 20
+      16 17 19 20
+      16 18 19 20
+      17 18 19 20

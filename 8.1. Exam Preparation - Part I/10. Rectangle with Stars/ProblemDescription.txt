@@ -1,0 +1,27 @@
+10. Rectangle with Stars 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-rectangle-with-stars.html
+
+Write a program that reads from the console an integer n and draws a rectangle with size n with two asterisks is its center as in the examples below.
+
+Input
+The input is an integer n in the range [2 … 1000].
+
+Output
+The rectangle should be printed on the console as in the examples below.
+
+Input	      Output
+2	          %%%%
+            %**%
+            %%%%
+            
+3	          %%%%%%
+            %    %
+            % ** %
+            %    %
+            %%%%%%
+
+4	          %%%%%%%%
+            %      %
+            %  **  %
+            %      %
+            %%%%%%%%

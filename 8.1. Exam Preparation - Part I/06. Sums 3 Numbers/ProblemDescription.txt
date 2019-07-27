@@ -1,0 +1,21 @@
+06. Sums 3 Numbers 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-sums-of-3-numbers.html
+
+There are 3 integers given. Write a program that checks if the sum of two of the numbers is equal to the third one.
+For example, if the numbers are 3, 5 and 2, the sum of two of the numbers is equal to the third one: 2 + 3 = 5.
+
+Input
+The console reads three integers, one per line. The numbers are in the range [1 … 1000].
+
+Output
+Print a text line on the console containing the solution of the problem in the format "a + b = c", where a, b and c are among the three input numbers and a ≤ b.
+If the problem has no solution, print "No" on the console.
+
+Input	Output	
+3
+5
+2	    2 + 3 = 5	
+
+2
+2
+4	    2 + 2 = 4
