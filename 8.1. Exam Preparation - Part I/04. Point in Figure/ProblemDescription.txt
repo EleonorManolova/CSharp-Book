@@ -1,0 +1,26 @@
+04. Point in Figure 
+https://csharp-book.softuni.org/Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems/problem-point-in-a-figure.html
+
+Write a program that checks whether a point (with coordinates x and y) is inside or outside the following figure:
+
+Input
+The console reads two integers (one per line): x and y.
+
+All input numbers are integers in the range [-1000 … 1000].
+
+Output
+Print on the console "in" or "out" – whether the point is inside or outside the figure (the outline is inside).
+
+
+Input	Output	Input	Output
+8
+-5	in	
+
+6
+-3	in
+
+11
+-5	out	
+
+11
+2	out
