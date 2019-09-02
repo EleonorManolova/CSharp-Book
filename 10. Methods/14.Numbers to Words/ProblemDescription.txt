@@ -1,0 +1,23 @@
+14. * Numbers to Words 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/exercises-methods/numbers-to-words.html
+
+Write a method Letterize(number), which reads an integer and prints it in words in English according to the conditions below:
+
+Print in words the hundreds, the tens and the ones (and the eventual minus) according to the rules of the English language.
+If the number is larger than 999, you must print "too large".
+If the number is smaller than -999, you must print "too small".
+If the number is negative, you must print "minus" before it.
+If the number is not built up of three digits, you shouldn't print it.
+
+Input       	Output	
+3
+999
+-420
+1020	      nine-hundred and ninety nine
+            minus four-hundred and twenty
+            too large	
+            
+2
+15
+350	        fifteen
+            three-hundred and fifty
