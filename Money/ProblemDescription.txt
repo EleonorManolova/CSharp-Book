@@ -1,0 +1,28 @@
+Money
+https://csharp-book.softuni.org/Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/money/money.html
+
+Peter lives in Bulgaria and is keen about money exchange, trading, cryptocurrencies and financial markets. 
+Some time ago, Peter bought Bitcoins (BTC) and paid for them in Bulgarian levs (BGN). 
+Now, he is going on vacation in Europe and he needs Euro (EUR). Apart from the Bitcoins, he has Chinese yuans (CNY) as well.
+Peter wants to exchange his money for Euro for the tour. 
+Write a program that calculates how much Euro he can buy, depending on the following exchange rates:
+
+1 Bitcoin (BTC) = 1168 BGN
+1 Chinese yuan (CNY) = 0.15 dollars (USD)
+1 dollar (USD) = 1.76 BGN
+1 Euro (EUR) = 1.95 BGN
+The exchange office has commission fee within 0% to 5% from the final sum in Euro.
+
+Input Data
+Three numbers are read from the console:
+
+On the first line – number of Bitcoins. Integer within the range of [0 … 20].
+On the second line – number of Chinese yuans. Floating-point number within the range of [0.00 … 50 000.00].
+On the third line – commission fee. Floating-point number within the range of [0.00 … 5.00].
+Output Data
+Print one number on the console – the result of the exchange of currencies. Rounding is not necessary.
+
+Input	    Output
+1
+5
+5	        569.668717948718
