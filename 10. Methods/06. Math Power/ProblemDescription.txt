@@ -1,0 +1,11 @@
+06. Math Power 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/return-result-from-method/return-result-from-method.html
+
+Create a method that calculates and returns as result the power of a given number.
+
+Input	Output	
+2
+8	    256	
+
+3
+4	    81
