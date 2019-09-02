@@ -1,5 +1,5 @@
 13. Notifications 
-
+https://csharp-book.softuni.org/Content/Chapter-10-methods/exercises-methods/notifications.html
 
 Write a program, which takes an integer n and n input messages and prints n output messages, based on the input. 
 For each message read a few lines. Each message starts with messageType: “success”, “warning” or “error”:
