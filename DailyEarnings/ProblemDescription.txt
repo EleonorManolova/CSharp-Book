@@ -1,0 +1,22 @@
+DailyEarnings
+https://csharp-book.softuni.org/Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/daily-earnings.html
+
+Ivan is a programmer in an American company, and he works at home approximately N days per month by earning approximately M dollars per day. 
+At the end of the year, Ivan gets a bonus, which equals 2.5 of his monthly salaries. In addition, 25% of his annual salary goes for taxes.
+
+Write a program that calculates what is the amount of Ivan's net average earnings in EUR per day, as he spends them in Europe.
+It is accepted that one year has exactly 365 days. The exchange rate of US dollar (USD) to Euro (EUR) will be read from the console.
+
+Input Data
+Three numbers are read from the console.
+
+On the first line – work days per month. An integer within the range of [5 … 30].
+On the second line – daily earnings. A floating-point number within the range of [10.00 … 2000.00].
+On the third line – exchange rate of USD to EUR /1 dollar = X euro/. A floating-point number within the range of [0.05 … 4.99].
+Output Data
+Print one number on the console – the daily earnings in EUR. The result will be rounded up to the second digit after the decimal point.
+
+Input	  Output
+21
+75.00
+0.88	  41.30
