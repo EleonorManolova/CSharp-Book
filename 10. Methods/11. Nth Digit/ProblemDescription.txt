@@ -1,0 +1,15 @@
+11. Nth Digit 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/exercises-methods/nth-digit.html
+
+Create a method FindNthDigit(number, index), which takes a number and index N as parameters and prints the N-th digit of the number (counting from right to left and starting from 1).
+After that print the result on the console.
+
+Input       Output
+83746
+2	          4	
+
+93847837
+6	          8	
+
+2435
+4	          2
