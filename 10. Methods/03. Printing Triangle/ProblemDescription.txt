@@ -1,0 +1,19 @@
+03. Printing Triangle 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/methods-with-parameters/method-with-params.html
+
+Create a method which prints a triangle as in the examples.
+
+Input	  Output	
+3	      1
+        1 2
+        1 2 3
+        1 2
+        1	
+        
+4	      1
+        1 2
+        1 2 3
+        1 2 3 4 
+        1 2 3
+        1 2
+        1
