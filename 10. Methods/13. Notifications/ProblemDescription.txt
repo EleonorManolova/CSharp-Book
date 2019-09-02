@@ -1,0 +1,43 @@
+13. Notifications 
+
+
+Write a program, which takes an integer n and n input messages and prints n output messages, based on the input. 
+For each message read a few lines. Each message starts with messageType: “success”, “warning” or “error”:
+
+When messageType is “success” read operation + message (each from a new line).
+When messageType is “warning” read only message (from a new line).
+When messageType is “error” read operation + message + errorCode (each from a new line).
+Print on the console each read message, formatted depending on its messageType. 
+After the headline of the message print as much =, as the length of the said headline and print an empty line after each message (to understand in detail look at the examples).
+
+The problem should be solved by defining four methods: ShowSuccessMessage(), ShowWarningMessage(), ShowErrorMessage() and ReadAndProcessMessage(), so that only the last method is invoked by the Main() method:
+
+Input	        
+4
+error
+credit card purchase
+Invalid customer address
+500
+warning
+Email not confirmed
+success
+user registration
+User registered successfully
+warning
+Customer has not email assigned	
+
+Output
+Error: Failed to execute credit card purchase.
+==============================================
+Reason: Invalid customer address.
+Error code: 500.
+
+Warning: Email not confirmed.
+=============================
+
+Successfully executed user registration.
+========================================
+User registered successfully.
+
+Warning: Customer has not email assigned.
+=========================================
