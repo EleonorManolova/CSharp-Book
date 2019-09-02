@@ -1,0 +1,16 @@
+04. Draw a Filled Square 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/methods-with-parameters/method-with-params.html
+
+Print on the console a filled square with side n, as in the examples below.
+
+Input	        Output	
+4	            --------
+              -\/\/\/-
+              -\/\/\/-
+              --------	
+              
+5	            ----------
+              -\/\/\/\/-
+              -\/\/\/\/-
+              -\/\/\/\/-
+              ----------
