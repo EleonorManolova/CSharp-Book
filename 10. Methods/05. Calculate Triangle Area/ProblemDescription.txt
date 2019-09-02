@@ -1,0 +1,8 @@
+05. Calculate Triangle Area 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/return-result-from-method/return-result-from-method.html
+
+Create a method that calculates the area of a triangle using the given base and height and returns it as a result.
+
+Input	Output
+3
+4	    6
