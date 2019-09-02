@@ -1,0 +1,12 @@
+10. String Repeater 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/exercises-methods/string-repeater.html
+
+Create a method RepeatString(str, count), which takes parameters of type string and an integer n and returns the string, repeated n times. 
+After this print the result on the console.
+
+Input	    Output
+str
+2	        strstr	
+
+roki
+6	        rokirokirokirokirokiroki
