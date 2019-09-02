@@ -1,0 +1,13 @@
+01. Blank Receipt 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/what-method-is/what-method-is.html
+
+Write a method that prints a blank receipt. The method should call another three methods: one to print the header, one for the middle part of the receipt and one for the lower part.
+
+Part of the receipt	Text
+
+Upper part	CASH RECEIPT
+            ------------------------------
+Middle part	Charged to____________________
+            Received by___________________
+Lower part	------------------------------
+            (c) SoftUni
