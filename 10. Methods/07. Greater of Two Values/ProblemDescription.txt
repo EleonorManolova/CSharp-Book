@@ -1,0 +1,18 @@
+07. Greater of Two Values 
+https://csharp-book.softuni.org/Content/Chapter-10-methods/methods-overloading/methods-overloading.html
+
+The input is two values of the same type. The values can be of int, char or string type.
+Create a method GetMax() that returns as a result the greater of the two values.
+
+Input	  Output	
+int
+2
+16	    16	
+
+char
+a
+z	      z	
+
+string
+Ivan
+Tod	    Tod
